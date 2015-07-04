@@ -1,0 +1,1638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Socha 2.4\n"
+"POT-Creation-Date: 2014-10-21 13:04+0200\n"
+"PO-Revision-Date: 2014-10-21 13:28+0200\n"
+"Last-Translator: CRIK0VA <alexandr.sochirca@gmail.com>\n"
+"Language-Team: Alethemes.com <alexandr.sochirca@gmail.com>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Error 404"
+msgstr "eroare 404"
+
+#: ../404.php:12
+msgid "404 - NOT FOUND"
+msgstr "404 - Pagina nu există"
+
+#: ../404.php:13
+msgid "Oops, This Page Could Not Be Found!"
+msgstr "Hopa, această pagină nu a putut fi găsită!"
+
+#: ../404.php:15 ../single-gallery.php:42 ../single-inspiration.php:17
+#: ../single-video.php:17
+msgid "Go Back"
+msgstr "Înapoi."
+
+#: ../404.php:16
+msgid "Homepage"
+msgstr "Pagina de start"
+
+#: ../404.php:19
+msgid "Contact Us"
+msgstr "Contactați-ne"
+
+#: ../aletheme/etc/activation.php:49
+msgid "Theme Activation"
+msgstr "Activarea temei"
+
+#: ../aletheme/etc/activation.php:81
+#, php-format
+msgid "%s Theme Activation"
+msgstr "%sActivarea temei"
+
+#: ../aletheme/etc/activation.php:104 ../aletheme/etc/activation.php:106
+msgid "Create static front page?"
+msgstr "Creați o pagină de pornire statică"
+
+#: ../aletheme/etc/activation.php:108 ../aletheme/etc/activation.php:120
+#: ../aletheme/etc/activation.php:133
+msgid "Yes"
+msgstr "Da"
+
+#: ../aletheme/etc/activation.php:109 ../aletheme/etc/activation.php:121
+#: ../aletheme/etc/activation.php:134
+msgid "No"
+msgstr "Nu"
+
+#: ../aletheme/etc/activation.php:111
+msgid "Create a page called Home and set it to be the static front page"
+msgstr "Creați o pagină numită Home și setați-o să fie pe prima pagină statică"
+
+#: ../aletheme/etc/activation.php:116 ../aletheme/etc/activation.php:118
+msgid "Create a blog page?"
+msgstr "Creați o pagină pentru blog"
+
+#: ../aletheme/etc/activation.php:123
+msgid "Create a page called Blog and set it to be the posts page"
+msgstr "Creați o pagină numită blog și setați-o să fie pagina de posturi"
+
+#: ../aletheme/etc/activation.php:128
+msgid "Change permalink structure?"
+msgstr "Modificarea structurii link permanentă"
+
+#: ../aletheme/etc/activation.php:130
+msgid "Update permalink structure?"
+msgstr "Actualizați structura link"
+
+#: ../aletheme/etc/activation.php:136
+msgid "Change permalink structure to /&#37;postname&#37;/"
+msgstr "Modificarea structurii link /&#37;postname&#37;/"
+
+#: ../aletheme/etc/admin.php:36
+#: ../aletheme/options/admin/options-framework.php:318
+msgid "Theme Options"
+msgstr "Opțiunile temei"
+
+#: ../aletheme/etc/admin.php:37
+msgid "Sliders"
+msgstr "Sliders"
+
+#: ../aletheme/etc/admin.php:38
+msgid "Theme Info"
+msgstr "tema Info"
+
+#: ../aletheme/etc/admin.php:38 ../aletheme/functions/info.php:5
+msgid "Theme Information"
+msgstr "tema Informații"
+
+#: ../aletheme/etc/admin.php:103
+#, php-format
+msgid "Please update your <a href=\"%s\">site tagline</a>"
+msgstr "Vă rugăm să actualizați <a href=\"%s\">site tagline</a>"
+
+#: ../aletheme/etc/front.php:31
+msgid "Thank you for your comment!"
+msgstr "Vă mulțumim pentru comentariu!"
+
+#: ../aletheme/etc/front.php:182
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: ../aletheme/etc/front.php:183
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../aletheme/etc/front.php:184
+msgid "(Edit)"
+msgstr "(Editare)"
+
+#: ../aletheme/etc/front.php:187
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul dvs. așteaptă moderare"
+
+#: ../aletheme/etc/front.php:202
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+"Acest post este protejat de parolă. Pentru a vizualiza va rugam sa "
+"introduceti parola de mai jos:"
+
+#: ../aletheme/etc/front.php:203
+msgid "Password:"
+msgstr "Parola:"
+
+#: ../aletheme/etc/front.php:333
+msgid "Search for"
+msgstr "Căutați"
+
+#: ../aletheme/etc/front.php:345 ../aletheme/etc/front.php:348
+#: ../aletheme/etc/front.php:351 ../aletheme/functions/general.php:1070
+#: ../archive.php:41 ../attachment.php:36 ../author.php:41
+msgid "Archives"
+msgstr "Arhivă"
+
+#: ../aletheme/etc/front.php:504
+msgid "Something went wrong. Please refresh page and try again."
+msgstr "Ceva nu a mers bine, vă rugăm să deschideți pagina din nou."
+
+#: ../aletheme/etc/media.php:14
+msgid "Hide"
+msgstr "Ascunde"
+
+#: ../aletheme/etc/media.php:156
+msgid "Gallery Images"
+msgstr "Galeride de imagini"
+
+#: ../aletheme/etc/media.php:201 ../aletheme/etc/media.php:208
+msgid "Add Image"
+msgstr "Adaugă imagine"
+
+#: ../aletheme/etc/media.php:201 ../aletheme/etc/media.php:208
+msgid "Upload Images"
+msgstr "Încărcați imagini"
+
+#: ../aletheme/etc/media.php:201
+msgid "Manage Gallery"
+msgstr "Gestionați Galerie"
+
+#: ../aletheme/etc/nav.php:143
+msgid "Advanced Navigation"
+msgstr "Navigare avansată"
+
+#: ../aletheme/etc/nav.php:161
+msgid "Archive"
+msgstr "Arhivă"
+
+#: ../aletheme/etc/system.php:63
+msgid "Header Menu"
+msgstr "Top meniu"
+
+#: ../aletheme/functions/general.php:1459 ../aletheme/functions/tgm.php:164
+msgid "Install Required Plugins"
+msgstr "Instalați necesare Plugin-uri"
+
+#: ../aletheme/functions/general.php:1460 ../aletheme/functions/tgm.php:165
+msgid "Install Plugins"
+msgstr "Instalare Plugin-uri"
+
+#: ../aletheme/functions/general.php:1461 ../aletheme/functions/tgm.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalarea Plugin: %s"
+
+#: ../aletheme/functions/general.php:1462
+msgid "Something went wrong with the plugin API."
+msgstr "Ceva nu a mers bine cu API plugin."
+
+#: ../aletheme/functions/general.php:1473 ../aletheme/functions/tgm.php:178
+#: ../aletheme/functions/tgm.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Return to necesare Plugin-uri de instalare"
+
+#: ../aletheme/functions/general.php:1474 ../aletheme/functions/tgm.php:179
+#: ../aletheme/functions/tgm.php:1868
+msgid "Plugin activated successfully."
+msgstr "Plugin activat cu succes."
+
+#: ../aletheme/functions/general.php:1475
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Toate plugin-uri instalate și activat cu succes. %s"
+
+#: ../aletheme/functions/images_media.php:353
+msgid ""
+"Sorry that seems to be an invalid <strong>YouTube</strong> URL. Please check "
+"it again."
+msgstr "Ne pare rău, link-ul dvs. nu este valid"
+
+#: ../aletheme/functions/images_media.php:396
+msgid ""
+"Sorry that seems to be an invalid <strong>Vimeo</strong> URL. Please check "
+"it again. Make sure there is a string of numbers at the end (e.g. http://"
+"vimeo.com/1234567)."
+msgstr "Ne pare rău, link-ul dvs. nu este valid"
+
+#: ../aletheme/functions/info.php:8
+msgid "General Information"
+msgstr "Informații generale"
+
+#: ../aletheme/functions/info.php:11
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+#: ../aletheme/functions/info.php:12
+msgid "URL"
+msgstr "URL"
+
+#: ../aletheme/functions/info.php:13
+msgid "Theme Version"
+msgstr "tema Version"
+
+#: ../aletheme/functions/info.php:14
+msgid "PHP Version"
+msgstr "Versiunea PHP"
+
+#: ../aletheme/functions/info.php:15
+msgid "MySQL server version"
+msgstr "Versiune de server MySQL"
+
+#: ../aletheme/functions/info.php:16
+msgid "Theme created date"
+msgstr "Tema dată a fost creata"
+
+#: ../aletheme/functions/info.php:17
+msgid "Theme last update date"
+msgstr "Tema dată Ultima actualizare"
+
+#: ../aletheme/functions/info.php:18
+msgid "Support Forum"
+msgstr "suport Forum"
+
+#: ../aletheme/functions/info.php:19
+msgid "Online Documentation"
+msgstr "Documentație online"
+
+#: ../aletheme/functions/info.php:22
+msgid "Installed Plugins"
+msgstr "Plugin-uri instalate"
+
+#: ../aletheme/functions/info.php:28
+msgid "Changelog"
+msgstr "Changelog"
+
+#: ../aletheme/functions/tgm.php:167
+msgid "Something went wrong."
+msgstr "Ceva a mers prost."
+
+#: ../aletheme/functions/tgm.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toate plugin-uri instalate și activat cu succes. %1$s"
+
+#: ../aletheme/functions/tgm.php:517 ../aletheme/functions/tgm.php:2080
+msgid "Return to the Dashboard"
+msgstr "Înapoi la tabloul de bord"
+
+#: ../aletheme/functions/tgm.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Următorul plugin-ul a fost activat cu succes: %s."
+
+#: ../aletheme/functions/tgm.php:704
+msgid "Dismiss this notice"
+msgstr "Renunțați la acest anunț"
+
+#: ../aletheme/functions/tgm.php:1113
+msgid "External Link"
+msgstr "Link extern"
+
+#: ../aletheme/functions/tgm.php:1118
+msgid "Private Repository"
+msgstr "Repository Private"
+
+#: ../aletheme/functions/tgm.php:1121
+msgid "Pre-Packaged"
+msgstr "Preambalate"
+
+#: ../aletheme/functions/tgm.php:1125
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: ../aletheme/functions/tgm.php:1128
+msgid "Required"
+msgstr "necesar"
+
+#: ../aletheme/functions/tgm.php:1128
+msgid "Recommended"
+msgstr "recomandat"
+
+#: ../aletheme/functions/tgm.php:1131
+msgid "Not Installed"
+msgstr "nu este instalat"
+
+#: ../aletheme/functions/tgm.php:1133
+msgid "Installed But Not Activated"
+msgstr "Instalat dar nu activat"
+
+#: ../aletheme/functions/tgm.php:1303
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nu plugin-uri pentru a instala sau a activa.  <a href=\"%1$s\" title="
+"\"Return to the Dashboard\">Înapoi la tabloul de bord</a>"
+
+#: ../aletheme/functions/tgm.php:1319
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../aletheme/functions/tgm.php:1320
+msgid "Source"
+msgstr "sursa"
+
+#: ../aletheme/functions/tgm.php:1321
+msgid "Type"
+msgstr "tip"
+
+#: ../aletheme/functions/tgm.php:1322
+msgid "Status"
+msgstr "Starea"
+
+#: ../aletheme/functions/tgm.php:1340
+msgid "Install"
+msgstr "Instalare"
+
+#: ../aletheme/functions/tgm.php:1341
+msgid "Activate"
+msgstr "Activați"
+
+#: ../aletheme/functions/tgm.php:1566
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Următorul plugin-ul a fost activat cu succes:"
+msgstr[1] "Următoarele plugin-uri au fost activate cu succes:"
+
+#: ../aletheme/functions/tgm.php:1851
+msgid "Install package not available."
+msgstr "Instalați pachet nu este disponibil."
+
+#: ../aletheme/functions/tgm.php:1852
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descărcarea pachetul de instalare de la <span class=\"code\">%s</span>&#8230;"
+
+#: ../aletheme/functions/tgm.php:1853
+msgid "Unpacking the package&#8230;"
+msgstr "Despachetarea pachetul&#8230;"
+
+#: ../aletheme/functions/tgm.php:1854
+msgid "Installing the plugin&#8230;"
+msgstr "Instalarea plugin-ul&#8230;"
+
+#: ../aletheme/functions/tgm.php:1855
+msgid "Plugin install failed."
+msgstr "Plugin instalează eșuat."
+
+#: ../aletheme/functions/tgm.php:1856
+msgid "Plugin installed successfully."
+msgstr "Plugin instalat cu succes."
+
+#: ../aletheme/functions/tgm.php:1867
+msgid "Plugin activation failed."
+msgstr "Activare Plugin eșuat."
+
+#: ../aletheme/functions/tgm.php:1977
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Procesul de instalare și activare începe. Acest proces poate dura ceva timp "
+"pe unele servere, așa că vă rugăm să aveți răbdare."
+
+#: ../aletheme/functions/tgm.php:1978
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalat și activat cu succes."
+
+#: ../aletheme/functions/tgm.php:1978 ../aletheme/functions/tgm.php:1987
+msgid "Show Details"
+msgstr "Arată detalii"
+
+#: ../aletheme/functions/tgm.php:1978 ../aletheme/functions/tgm.php:1987
+msgid "Hide Details"
+msgstr "Ascunde detalii"
+
+#: ../aletheme/functions/tgm.php:1979
+msgid "All installations and activations have been completed."
+msgstr "Toate instalațiile și activări au fost finalizate."
+
+#: ../aletheme/functions/tgm.php:1980
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalarea și activarea Plugin-ul %1$s (%2$d/%3$d)"
+
+#: ../aletheme/functions/tgm.php:1984
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Procesul de instalare începe. Acest proces poate dura ceva timp pe unele "
+"servere, așa că vă rugăm să aveți răbdare."
+
+#: ../aletheme/functions/tgm.php:1985
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "A apărut o eroare în timpul instalării %1$s: <strong>%2$s</strong>."
+
+#: ../aletheme/functions/tgm.php:1986
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalarea %1$s nu a reușit."
+
+#: ../aletheme/functions/tgm.php:1987
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalat cu succes."
+
+#: ../aletheme/functions/tgm.php:1988
+msgid "All installations have been completed."
+msgstr "Toate instalațiile au fost finalizate."
+
+#: ../aletheme/functions/tgm.php:1989
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalarea Plugin %1$s (%2$d/%3$d)"
+
+#: ../aletheme/options/admin/options-framework.php:192
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Faceți clic pe OK pentru a reseta. Toate setările vor fi resetate"
+
+#: ../aletheme/options/admin/options-framework.php:224
+msgid "Default options restored."
+msgstr "Opțiunile implicite sunt restaurate"
+
+#: ../aletheme/options/admin/options-framework.php:267
+msgid "Options saved."
+msgstr "Setările sunt salvate"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:27
+msgid "Theme Options Media"
+msgstr "Setări Media"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:130
+msgid "Upload"
+msgstr "Încarcă"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:153
+msgid "View File"
+msgstr "Vezi fișierul"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:290
+#: ../archive-gallery.php:15 ../taxonomy-gallery-category.php:23
+#: ../templates/blog_gallery.php:29
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:290
+msgid "Previously Uploaded"
+msgstr "Încărcate anterior"
+
+#: ../aletheme/options/admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr "Nu repetați"
+
+#: ../aletheme/options/admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr "Repetați Horizontal"
+
+#: ../aletheme/options/admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr "Repetați Vertical"
+
+#: ../aletheme/options/admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr "Repetați toate"
+
+#: ../aletheme/options/admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr "Top Stânga"
+
+#: ../aletheme/options/admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr "Top Centru"
+
+#: ../aletheme/options/admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr "Top Dreapta"
+
+#: ../aletheme/options/admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr "Mijloc Stânga"
+
+#: ../aletheme/options/admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr "Mijloc Centru"
+
+#: ../aletheme/options/admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr "Mijloc Dreapta"
+
+#: ../aletheme/options/admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr "Jos Stânga"
+
+#: ../aletheme/options/admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr "Jos Centru"
+
+#: ../aletheme/options/admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr "Jos Dreapta"
+
+#: ../aletheme/options/admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr "Scroll Normally"
+
+#: ../aletheme/options/admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr "Fixate în loc"
+
+#: ../aletheme/options/admin/options-sanitize.php:337
+msgid "Normal"
+msgstr "Normal"
+
+#: ../aletheme/options/admin/options-sanitize.php:338
+msgid "Italic"
+msgstr "Italic"
+
+#: ../aletheme/options/admin/options-sanitize.php:339
+msgid "Bold"
+msgstr "Bold"
+
+#: ../aletheme/options/admin/options-sanitize.php:340
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: ../aletheme/shortcodes/shortcodes.php:471
+msgid "No location for the address."
+msgstr "Nu locație pentru adresa."
+
+#: ../aletheme/shortcodes/shortcodes.php:473
+msgid "Bad request. Did you enter an address name?"
+msgstr "Bad cerere. Ați introdus o adresă de nume?"
+
+#: ../aletheme/shortcodes/shortcodes.php:475
+msgid "Error, please check if you have entered the shortcode correctly."
+msgstr "Eroare, vă rugăm să verificați dacă ați introdus corect scurtătură."
+
+#: ../aletheme/shortcodes/shortcodes.php:479
+msgid "Can't connect Google API."
+msgstr "Nu se poate conecta Google API."
+
+#: ../aletheme/shortcodes/tinymce/config.php:13
+msgid "Button URL"
+msgstr "Button URL"
+
+#: ../aletheme/shortcodes/tinymce/config.php:14
+msgid "Add the button's url eg http://example.com"
+msgstr "Introduce linkul butonului. ex http://example.com"
+
+#: ../aletheme/shortcodes/tinymce/config.php:18
+msgid "Button Style"
+msgstr "Stilul butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:19
+msgid "Select the button's style, ie the button's colour"
+msgstr "Alege stilul butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:33
+msgid "Button Size"
+msgstr "Dimensiunile butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:34
+msgid "Select the button's size"
+msgstr "Alege mărimea butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:43
+msgid "Button Type"
+msgstr "Stilul butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:44
+msgid "Select the button's type"
+msgstr "Alege tipul butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:52
+msgid "Button Target"
+msgstr "Opțiunile butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:53
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+"_self = deschide in această fereastră . _blank = deschide în fereastră nouă"
+
+#: ../aletheme/shortcodes/tinymce/config.php:62
+msgid "Button's Text"
+msgstr "Text pe buton"
+
+#: ../aletheme/shortcodes/tinymce/config.php:63
+msgid "Add the button's text"
+msgstr "Adaugă textul pe buton"
+
+#: ../aletheme/shortcodes/tinymce/config.php:67
+msgid "Insert Button Shortcode"
+msgstr "Introdu Shortcod-ul butonului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:79
+msgid "Alert Style"
+msgstr "Stil Alertă"
+
+#: ../aletheme/shortcodes/tinymce/config.php:80
+msgid "Select the alert's style, ie the alert colour"
+msgstr "Alege stilul Alertă"
+
+#: ../aletheme/shortcodes/tinymce/config.php:92
+msgid "Alert Text"
+msgstr "Textul Alertă"
+
+#: ../aletheme/shortcodes/tinymce/config.php:93
+msgid "Add the alert's text"
+msgstr "Adaugă textul Alertă"
+
+#: ../aletheme/shortcodes/tinymce/config.php:98
+msgid "Insert Alert Shortcode"
+msgstr "Introdu shortcode-ul Alertă"
+
+#: ../aletheme/shortcodes/tinymce/config.php:110
+msgid "Toggle Content Title"
+msgstr "Titlu Toggle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:111
+msgid "Add the title that will go above the toggle content"
+msgstr "Introdu titlu Toggle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:117
+msgid "Toggle Content"
+msgstr "Textul Toggle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:118
+msgid "Add the toggle content. Will accept HTML"
+msgstr "Adaugă textul Toggle. Este acceptat HTML"
+
+#: ../aletheme/shortcodes/tinymce/config.php:122
+msgid "Toggle State"
+msgstr "Toggle State"
+
+#: ../aletheme/shortcodes/tinymce/config.php:123
+msgid "Select the state of the toggle on page load"
+msgstr "Alege the state of the toggle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:132
+msgid "Insert Toggle Content Shortcode"
+msgstr "Introdu shortcode-ul Toggle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:143
+msgid "Insert Tab Shortcode"
+msgstr "Introdu shortcode-ul Tab"
+
+#: ../aletheme/shortcodes/tinymce/config.php:150
+msgid "Tab Title"
+msgstr "Titlu Tab"
+
+#: ../aletheme/shortcodes/tinymce/config.php:151
+msgid "Title of the tab"
+msgstr "Titlu Tab"
+
+#: ../aletheme/shortcodes/tinymce/config.php:156
+msgid "Tab Content"
+msgstr "Textul pentru Tab"
+
+#: ../aletheme/shortcodes/tinymce/config.php:157
+msgid "Add the tabs content"
+msgstr "Adaugă textul Tab"
+
+#: ../aletheme/shortcodes/tinymce/config.php:161
+msgid "Add Tab"
+msgstr "Adaugă Tab"
+
+#: ../aletheme/shortcodes/tinymce/config.php:172
+msgid "Insert Columns Shortcode"
+msgstr "Adaugă shortcode-ul Columns"
+
+#: ../aletheme/shortcodes/tinymce/config.php:180
+msgid "Column Type"
+msgstr "Stilul Column"
+
+#: ../aletheme/shortcodes/tinymce/config.php:181
+msgid "Select the type, ie width of the column."
+msgstr "Alege tipul Column"
+
+#: ../aletheme/shortcodes/tinymce/config.php:210
+msgid "Column Content"
+msgstr "Textul Column"
+
+#: ../aletheme/shortcodes/tinymce/config.php:211
+msgid "Add the column content."
+msgstr "Adaugă text Column"
+
+#: ../aletheme/shortcodes/tinymce/config.php:215
+msgid "Add Column"
+msgstr "Adaugă Column"
+
+#: ../aletheme/shortcodes/tinymce/config.php:228
+msgid "Divider Style"
+msgstr "divizor Style"
+
+#: ../aletheme/shortcodes/tinymce/config.php:229
+msgid "Select the divider's style"
+msgstr "Selectați stilul divizorului de"
+
+#: ../aletheme/shortcodes/tinymce/config.php:241
+#: ../aletheme/shortcodes/tinymce/config.php:253
+msgid "Divider Text"
+msgstr "divizor Text"
+
+#: ../aletheme/shortcodes/tinymce/config.php:242
+msgid "Select the divider's text option"
+msgstr "Selectați opțiunea textul divizorului de"
+
+#: ../aletheme/shortcodes/tinymce/config.php:254
+msgid "Add the divider's text"
+msgstr "Adăugați text divizorului de"
+
+#: ../aletheme/shortcodes/tinymce/config.php:259
+msgid "Insert Divider Shortcode"
+msgstr "Introduceți Spatiu Shortcode"
+
+#: ../aletheme/shortcodes/tinymce/config.php:271
+msgid "Testimonial Style"
+msgstr "Mărturie Style"
+
+#: ../aletheme/shortcodes/tinymce/config.php:272
+msgid "Select the testimonial's style"
+msgstr "Selectați stilul mărturia lui"
+
+#: ../aletheme/shortcodes/tinymce/config.php:281
+msgid "Testimonial Author photo link"
+msgstr "Mărturie Autor legătură foto"
+
+#: ../aletheme/shortcodes/tinymce/config.php:282
+msgid "Add the testimonial's author photo link."
+msgstr "Adauga link-ul de autor fotografie marturie a lui."
+
+#: ../aletheme/shortcodes/tinymce/config.php:287
+msgid "Testimonial Author"
+msgstr "Mărturie Autor"
+
+#: ../aletheme/shortcodes/tinymce/config.php:288
+msgid "Add the testimonial's author"
+msgstr "Adăugați autor mărturia lui"
+
+#: ../aletheme/shortcodes/tinymce/config.php:293
+msgid "Testimonial Link"
+msgstr "Mărturie Link"
+
+#: ../aletheme/shortcodes/tinymce/config.php:294
+msgid "Add the testimonial's link"
+msgstr "Adauga link-ul mărturia lui"
+
+#: ../aletheme/shortcodes/tinymce/config.php:299
+#: ../aletheme/shortcodes/tinymce/config.php:364
+msgid "Testimonial Text"
+msgstr "Text Mărturie"
+
+#: ../aletheme/shortcodes/tinymce/config.php:300
+#: ../aletheme/shortcodes/tinymce/config.php:365
+msgid "Add the testimonial's text"
+msgstr "Adăugați text mărturia lui"
+
+#: ../aletheme/shortcodes/tinymce/config.php:305
+msgid "Insert Testimonial Shortcode"
+msgstr "Introduceți Mărturie Shortcode"
+
+#: ../aletheme/shortcodes/tinymce/config.php:318
+msgid "Team box Style"
+msgstr "Echipa Style"
+
+#: ../aletheme/shortcodes/tinymce/config.php:319
+msgid "Select the team box's style"
+msgstr "Selectați stilul caseta echipei"
+
+#: ../aletheme/shortcodes/tinymce/config.php:328
+msgid "Team Author photo link"
+msgstr "Echipa link Autor fotografie"
+
+#: ../aletheme/shortcodes/tinymce/config.php:329
+msgid "Add the team's author photo link."
+msgstr "Adauga link-ul de autor foto echipei."
+
+#: ../aletheme/shortcodes/tinymce/config.php:334
+msgid "Team Author"
+msgstr "echipa Autor"
+
+#: ../aletheme/shortcodes/tinymce/config.php:335
+msgid "Add the team's author"
+msgstr "Adăugați autor echipei"
+
+#: ../aletheme/shortcodes/tinymce/config.php:340
+msgid "Team Prof"
+msgstr "echipa Prof"
+
+#: ../aletheme/shortcodes/tinymce/config.php:341
+msgid "Add the prof. team's author"
+msgstr "Adăugați prof. autor echipa lui"
+
+#: ../aletheme/shortcodes/tinymce/config.php:346
+msgid "Facebook Link"
+msgstr "Facebook Link"
+
+#: ../aletheme/shortcodes/tinymce/config.php:347
+msgid "Add the facebook link"
+msgstr "Adauga link-ul facebook"
+
+#: ../aletheme/shortcodes/tinymce/config.php:352
+msgid "Twitter Link"
+msgstr "Twitter Link"
+
+#: ../aletheme/shortcodes/tinymce/config.php:353
+msgid "Add the twitter link"
+msgstr "Adauga link-ul twitter"
+
+#: ../aletheme/shortcodes/tinymce/config.php:358
+msgid "Google+ Link"
+msgstr "Google+ Link"
+
+#: ../aletheme/shortcodes/tinymce/config.php:359
+msgid "Add the google+ link"
+msgstr "Adauga link-ul de Google +"
+
+#: ../aletheme/shortcodes/tinymce/config.php:370
+msgid "Insert Team Shortcode"
+msgstr "Introduceți Echipa Shortcode"
+
+#: ../aletheme/shortcodes/tinymce/config.php:382
+#: ../aletheme/shortcodes/tinymce/config.php:424
+msgid "Partner box Style"
+msgstr "Partener cutie Style"
+
+#: ../aletheme/shortcodes/tinymce/config.php:383
+#: ../aletheme/shortcodes/tinymce/config.php:425
+msgid "Select the partner box's style"
+msgstr "Selectați stilul caseta partenerului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:392
+msgid "Partner logo link"
+msgstr "Partener logo link"
+
+#: ../aletheme/shortcodes/tinymce/config.php:393
+msgid "Add the partner's logo link."
+msgstr "Adăugați logo-ul link-ul partenerului."
+
+#: ../aletheme/shortcodes/tinymce/config.php:398
+msgid "Partner Title"
+msgstr "partener Titlu"
+
+#: ../aletheme/shortcodes/tinymce/config.php:399
+msgid "Add the partner's title"
+msgstr "Adăugați titlul partenerului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:405
+msgid "Partner Link"
+msgstr "partener Link"
+
+#: ../aletheme/shortcodes/tinymce/config.php:406
+msgid "Add the partner link"
+msgstr "Adauga link-ul partener"
+
+#: ../aletheme/shortcodes/tinymce/config.php:411
+msgid "Insert Partner Shortcode"
+msgstr "Introduceți Partner Shortcode"
+
+#: ../aletheme/shortcodes/tinymce/config.php:434
+msgid "Service icon link"
+msgstr "Serviciul de link icon"
+
+#: ../aletheme/shortcodes/tinymce/config.php:435
+msgid "Add the service's icon link."
+msgstr "Adăugați pictogramă a serviciului."
+
+#: ../aletheme/shortcodes/tinymce/config.php:440
+msgid "Service Title"
+msgstr "Serviciul de titlu"
+
+#: ../aletheme/shortcodes/tinymce/config.php:441
+msgid "Add the service title"
+msgstr "Adăugați titlul serviciu"
+
+#: ../aletheme/shortcodes/tinymce/config.php:446
+msgid "Short Description"
+msgstr "Descriere pe scurt"
+
+#: ../aletheme/shortcodes/tinymce/config.php:447
+msgid "Add the service's description"
+msgstr "Adăugați descrierea serviciului"
+
+#: ../aletheme/shortcodes/tinymce/config.php:453
+msgid "Insert Service Shortcode"
+msgstr "Introduceți Serviciul Shortcode"
+
+#: ../aletheme/shortcodes/tinymce/config.php:466
+msgid "Add the Address"
+msgstr "Adauga adresa"
+
+#: ../aletheme/shortcodes/tinymce/config.php:467
+msgid "Add the address"
+msgstr "Adauga adresa"
+
+#: ../aletheme/shortcodes/tinymce/config.php:472
+msgid "Map width"
+msgstr "lățime harta"
+
+#: ../aletheme/shortcodes/tinymce/config.php:473
+msgid "Add the width"
+msgstr "Adăugați lățimea"
+
+#: ../aletheme/shortcodes/tinymce/config.php:478
+msgid "Map height"
+msgstr "înălțime harta"
+
+#: ../aletheme/shortcodes/tinymce/config.php:479
+msgid "Add the map height"
+msgstr "Adauga înălțimea hartă"
+
+#: ../aletheme/shortcodes/tinymce/config.php:485
+msgid "Insert Map Shortcode"
+msgstr "Introduceți Harta Shortcode"
+
+#: ../aletheme/sliders/sliders.php:413
+msgid "Insert Slider"
+msgstr "Adaugă Slider"
+
+#: ../aletheme/sliders/sliders.php:426
+msgid "Select Slider"
+msgstr "Alege Slider"
+
+#: ../aletheme/widgets/widget-about.php:17
+msgid "A widget that displays a short information about you."
+msgstr "Un widget care afișează o scurtă informație despre tine."
+
+#: ../aletheme/widgets/widget-about.php:28
+msgid "Aletheme About Me"
+msgstr "Aletheme Despre mine"
+
+#: ../aletheme/widgets/widget-about.php:99
+msgid "About Me"
+msgstr "Despre autor"
+
+#: ../aletheme/widgets/widget-about.php:109
+#: ../aletheme/widgets/widget-blog.php:117
+#: ../aletheme/widgets/widget-facebook.php:102
+#: ../aletheme/widgets/widget-mostcommented.php:138
+#: ../aletheme/widgets/widget-testimonials.php:118
+msgid "Title:"
+msgstr "Titlu:"
+
+#: ../aletheme/widgets/widget-about.php:117
+#: ../aletheme/widgets/widget-blog.php:121
+#: ../aletheme/widgets/widget-mostcommented.php:142
+#: ../aletheme/widgets/widget-testimonials.php:122
+msgid "Posts to show:"
+msgstr "Posturi:"
+
+#: ../aletheme/widgets/widget-blog.php:15
+msgid "A widget that displays your latest posts with image."
+msgstr "Un widget care afișează posturile cele mai recente cu imaginea."
+
+#: ../aletheme/widgets/widget-blog.php:26
+msgid "Aletheme Recent Posts"
+msgstr "Aletheme Recent Posts"
+
+#: ../aletheme/widgets/widget-blog.php:112
+msgid "Latest Blog Posts"
+msgstr "Latest Blog Posts"
+
+#: ../aletheme/widgets/widget-facebook.php:97
+msgid "Theme on"
+msgstr "tema pe"
+
+#: ../aletheme/widgets/widget-facebook.php:106
+msgid "Your link to share:"
+msgstr "Link-ul pentru a partaja:"
+
+#: ../aletheme/widgets/widget-flickr.php:88
+#: ../aletheme/widgets/widget-flickr.php:89
+msgid "by"
+msgstr "de"
+
+#: ../aletheme/widgets/widget-mostcommented.php:75
+#: ../aletheme/widgets/widget-mostcommented.php:89 ../partials/postfull.php:5
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Un Comentariu"
+msgstr[1] "%1$s Comentarii"
+
+#: ../aletheme/widgets/widget-mostcommented.php:133
+msgid "Most Commented"
+msgstr "Cele mai comentate"
+
+#: ../aletheme/widgets/widget-testimonials.php:113
+msgid "- Testimonials -"
+msgstr "- Marturii -"
+
+#: ../archive-gallery.php:17 ../archive-inspiration.php:22
+#: ../archive-press.php:22 ../archive-testimonials.php:22
+#: ../archive-video.php:22 ../partials/archives.php:12
+#: ../taxonomy-gallery-category.php:25 ../template-blog-centered.php:34
+#: ../template-blog.php:34 ../template-gallery-pagination.php:48
+msgid "NEWER"
+msgstr "Mai nou"
+
+#: ../archive-gallery.php:17 ../archive-inspiration.php:22
+#: ../archive-press.php:22 ../archive-testimonials.php:22
+#: ../archive-video.php:22 ../partials/archives.php:12
+#: ../taxonomy-gallery-category.php:25 ../template-blog-centered.php:34
+#: ../template-blog.php:34 ../template-gallery-pagination.php:48
+msgid "OLDER"
+msgstr "Mai vechi"
+
+#: ../archive-inspiration.php:15
+msgid "Inspiration"
+msgstr "Inspirație"
+
+#: ../archive-inspiration.php:40 ../archive-inspiration.php:53
+#: ../single-inspiration.php:75
+msgid "Place"
+msgstr "Loc"
+
+#: ../archive-inspiration.php:41 ../archive-inspiration.php:54
+#: ../single-gallery.php:54 ../single-inspiration.php:76
+msgid "Date"
+msgstr "Data"
+
+#: ../archive-inspiration.php:42 ../archive-inspiration.php:55
+#: ../single-inspiration.php:77
+msgid "Impression & Feelings"
+msgstr "Impresia & Sentimente"
+
+#: ../archive-inspiration.php:44 ../archive-inspiration.php:57
+#: ../page-home.php:26 ../tag.php:48 ../template-blog-centered.php:58
+#: ../template-blog.php:100 ../template-home-1.php:27
+#: ../template-home-1.php:122 ../template-home-2.php:92
+#: ../template-home-3.php:64 ../template-home-4.php:116
+#: ../template-home-5.php:24 ../template-home-one.php:36
+#: ../templates/blog_gallery.php:52 ../templates/blog_quote.php:26
+#: ../templates/blog_standart.php:37 ../templates/blog_video.php:25
+msgid "Read More"
+msgstr "Citeste mai mult"
+
+#: ../archive-press.php:15
+msgid "Press"
+msgstr "Jurnal"
+
+#: ../archive-press.php:43
+msgid "OPEN SITE"
+msgstr "Site deschis"
+
+#: ../archive-press.php:47
+msgid "READ MORE"
+msgstr "Citeste mai mult"
+
+#: ../archive-press.php:66
+msgid "ONLINE"
+msgstr "Online"
+
+#: ../archive-press.php:66
+msgid "PRINT"
+msgstr "Imprimantă"
+
+#: ../archive-testimonials.php:15
+msgid "Testimonials"
+msgstr "Recenzii"
+
+#: ../archive-video.php:15
+msgid "Videos"
+msgstr "Video"
+
+#: ../archive-video.php:41
+msgid "VIDEO"
+msgstr "Video"
+
+#: ../archive-video.php:68
+msgid "watch the video"
+msgstr "Privește video"
+
+#: ../archive.php:17 ../attachment.php:12 ../author.php:17 ../category.php:17
+#: ../category.php:41 ../image.php:12 ../index.php:17 ../search.php:17
+#: ../single.php:17
+msgid "BLOG CATEGORIES"
+msgstr "Blog categorii"
+
+#: ../archive.php:23 ../attachment.php:18 ../author.php:23 ../category.php:23
+#: ../image.php:18 ../index.php:23 ../search.php:23 ../single-gallery.php:26
+#: ../single.php:23
+msgid "All"
+msgstr "Toate"
+
+#: ../archive.php:33 ../attachment.php:28 ../author.php:33 ../category.php:33
+#: ../image.php:28 ../index.php:33 ../search.php:33 ../single.php:33
+msgid "SEARCH THE BLOG"
+msgstr "Căutați pe blog"
+
+#: ../comments.php:17 ../comments.php:96 ../comments.php:128
+#: ../comments.php:207 ../comments.php:239 ../comments.php:318
+#: ../comments.php:350 ../comments.php:429 ../comments.php:461
+#: ../comments.php:540
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: ../comments.php:23 ../comments.php:134 ../comments.php:245
+#: ../comments.php:356 ../comments.php:467
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Acest post este protejat de parolă. Introduceți parola pentru a vizualiza "
+"comentariile."
+
+#: ../comments.php:32 ../comments.php:143 ../comments.php:254
+#: ../comments.php:365 ../comments.php:476
+msgid "&larr; Older comments"
+msgstr "&larr; Comentarii mai vechi"
+
+#: ../comments.php:33 ../comments.php:144 ../comments.php:255
+#: ../comments.php:366 ../comments.php:477
+msgid "Newer comments &rarr;"
+msgstr "Comentarii noi &rarr;"
+
+#: ../comments.php:42 ../comments.php:153 ../comments.php:264
+#: ../comments.php:375 ../comments.php:486
+msgid "comment this post"
+msgstr "Adaugă comentariu"
+
+#: ../comments.php:46 ../comments.php:157 ../comments.php:268
+#: ../comments.php:379 ../comments.php:490
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Trebuie să fii autentificat href=\"%s\"> <a </ a> pentru a posta un "
+"comentariu."
+
+#: ../comments.php:52 ../comments.php:163 ../comments.php:274
+#: ../comments.php:385 ../comments.php:496
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Conectat ca <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: ../comments.php:53 ../comments.php:164 ../comments.php:275
+#: ../comments.php:386 ../comments.php:497
+msgid "Log out of this account"
+msgstr "Deconectați-vă"
+
+#: ../comments.php:53 ../comments.php:164 ../comments.php:275
+#: ../comments.php:386 ../comments.php:497
+msgid "Log out &raquo;"
+msgstr "Ieși &raquo;"
+
+#: ../comments.php:56 ../comments.php:167 ../comments.php:278
+#: ../comments.php:389 ../comments.php:500 ../template-contact-two.php:53
+#: ../template-contact.php:49
+msgid "Name"
+msgstr "Nume"
+
+#: ../comments.php:56 ../comments.php:57 ../comments.php:167
+#: ../comments.php:168 ../comments.php:278 ../comments.php:279
+#: ../comments.php:389 ../comments.php:390 ../comments.php:500
+#: ../comments.php:501
+msgid "*"
+msgstr "*"
+
+#: ../comments.php:57 ../comments.php:168 ../comments.php:279
+#: ../comments.php:390 ../comments.php:501 ../template-contact-two.php:57
+#: ../template-contact.php:52
+msgid "Email"
+msgstr "Poșta"
+
+#: ../comments.php:58 ../comments.php:169 ../comments.php:280
+#: ../comments.php:391 ../comments.php:502
+msgid "Website"
+msgstr "Website"
+
+#: ../comments.php:63 ../comments.php:174 ../comments.php:285
+#: ../comments.php:396 ../comments.php:507
+msgid "Comment"
+msgstr "Comentariu"
+
+#: ../comments.php:64 ../comments.php:175 ../comments.php:286
+#: ../comments.php:397 ../comments.php:508
+msgid "Click on form to scroll"
+msgstr "Click pe formular pentru scroll"
+
+#: ../comments.php:67 ../comments.php:178 ../comments.php:289
+#: ../comments.php:400 ../comments.php:511
+msgid "Submit"
+msgstr "Trimite"
+
+#: ../comments.php:68 ../comments.php:179 ../comments.php:290
+#: ../comments.php:401 ../comments.php:512 ../template-contact-two.php:71
+#: ../template-contact.php:66
+msgid "Clear"
+msgstr "Șterge"
+
+#: ../comments.php:87 ../comments.php:198 ../comments.php:309
+#: ../comments.php:420 ../comments.php:531
+msgid ""
+"Please download the DISQUS plugin from Wordpress Repository and install it."
+msgstr ""
+"Vă rugăm să descărcați plugin-ul de la Disqus Wordpress Depozitul și să îl "
+"instalați."
+
+#: ../comments.php:91 ../comments.php:202 ../comments.php:313
+#: ../comments.php:424 ../comments.php:535
+msgid ""
+"Please download the Livefyre Realtime Comments plugin from Wordpress "
+"Repository and install it."
+msgstr ""
+"Vă rugăm să descărcați plugin-ul in timp real Livefyre Comentarii la "
+"Wordpress Depozitul și să îl instalați"
+
+#: ../comments.php:103 ../comments.php:214 ../comments.php:325
+#: ../comments.php:436 ../comments.php:547
+msgid "Comment navigation"
+msgstr "Navigația pe comentarii"
+
+#: ../comments.php:104 ../comments.php:215 ../comments.php:326
+#: ../comments.php:437 ../comments.php:548
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: ../comments.php:105 ../comments.php:216 ../comments.php:327
+#: ../comments.php:438 ../comments.php:549
+msgid "Newer Comments"
+msgstr "Cele mai noi comentarii"
+
+#: ../footer.php:6
+msgid "2014. Socha Responsive Theme. ALL RIGHTS RESERVED."
+msgstr "2014 Socha Tema Responsive. Toate drepturile rezervate."
+
+#: ../footer.php:9
+msgid "TOP"
+msgstr "În sus"
+
+#: ../image.php:50
+msgid "Previous Image"
+msgstr "Imaginea anterioară"
+
+#: ../image.php:51
+msgid "Next Image"
+msgstr "Imaginea următoare"
+
+#: ../index.php:41
+msgid "BLOG"
+msgstr "BLOG"
+
+#: ../page-home.php:95 ../templates/home_customcontent.php:3
+msgid "Welcome"
+msgstr "Bine ai venit"
+
+#: ../partials/archives.php:5
+msgid "Prev Post"
+msgstr "Precedent"
+
+#: ../partials/archives.php:7
+msgid "Next Post"
+msgstr "Următor"
+
+#: ../partials/notfound.php:2
+msgid "No results were found for the requested page."
+msgstr "Nu au fost găsite rezultate pentru pagina solicitată."
+
+#: ../partials/postcontent.php:6 ../single-inspiration.php:81
+msgid "Pages:"
+msgstr "Pagini"
+
+#: ../partials/postfull.php:5 ../single-gallery.php:116 ../single-video.php:23
+msgid "likes"
+msgstr "likes"
+
+#: ../partials/postfull.php:10
+msgid "Share this post:"
+msgstr "Share acest post"
+
+#: ../partials/postpreview.php:10
+msgid "Tags: "
+msgstr "Tag-uri:"
+
+#: ../search.php:41
+msgid "Search"
+msgstr "Căutare"
+
+#: ../searchform.php:3
+msgid "Type here..."
+msgstr "Tastați aici ..."
+
+#: ../searchform.php:4
+msgid "Go"
+msgstr "Go"
+
+#: ../sidebar-mainmenu.php:31 ../sidebar-mainmenu.php:68
+msgid "Follow"
+msgstr "Urmareste-ne"
+
+#: ../single-gallery.php:17
+msgid "gallery CATEGORIES"
+msgstr "Categoriile galeriee"
+
+#: ../single-gallery.php:53
+msgid "Location"
+msgstr "Locația"
+
+#: ../single-gallery.php:121
+msgid "Share this gallery"
+msgstr "Share această galerie"
+
+#: ../single-inspiration.php:46 ../single-inspiration.php:53
+msgid "prev"
+msgstr "Precedentă"
+
+#: ../single-inspiration.php:46 ../single-inspiration.php:53
+msgid "next"
+msgstr "Următoarea"
+
+#: ../single-inspiration.php:58 ../single-video.php:27
+msgid "Share this post"
+msgstr "Share acest post"
+
+#: ../tag.php:9
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: ../tag.php:21 ../tag.php:45 ../template-blog-centered.php:55
+#: ../template-blog.php:72 ../template-blog.php:97
+#: ../templates/blog_gallery.php:49 ../templates/blog_quote.php:23
+#: ../templates/blog_standart.php:9 ../templates/blog_standart.php:34
+#: ../templates/blog_video.php:22
+msgid "comments"
+msgstr "Comentarii"
+
+#: ../tag.php:21 ../tag.php:45 ../template-blog-centered.php:55
+#: ../template-blog.php:72 ../template-blog.php:97
+#: ../templates/blog_gallery.php:49 ../templates/blog_quote.php:23
+#: ../templates/blog_standart.php:9 ../templates/blog_standart.php:34
+#: ../templates/blog_video.php:22
+msgid "votes"
+msgstr "Voturi"
+
+#: ../template-about.php:93
+msgid "Video  Presentation"
+msgstr "Prezentare video"
+
+#: ../template-contact-two.php:47 ../template-contact.php:43
+msgid "Your email was sent successfully. Thank you for your message!"
+msgstr "Mesajul a fost trimis cu succes. Vă mulțumim pentru mesaj!"
+
+#: ../template-contact-two.php:61 ../template-contact.php:55
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../template-contact-two.php:66 ../template-contact.php:62
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../template-contact-two.php:70 ../template-contact.php:65
+msgid "Send"
+msgstr "Trimite"
+
+#: ../template-contact-two.php:80
+msgid "Our address"
+msgstr "Adresa noastra"
+
+#: ../template-contact-two.php:88
+msgid "Contact details"
+msgstr "Datele de contact"
+
+#: ../template-contact-two.php:97
+msgid "Phone number"
+msgstr "Numărul de telefon"
+
+#: ../template-contact.php:40
+msgid "contact form"
+msgstr "Formularul de contact"
+
+#: ../template-contact.php:58
+msgid "How did you find me?"
+msgstr "Cum ne-ați găsit"
+
+#: ../template-contact.php:92
+msgid "Map"
+msgstr "Hartă"
+
+#: ../template-gallery-filter.php:34
+msgid "Filter"
+msgstr "Filtru"
+
+#: ../template-gallery-filter.php:37
+msgid "show all"
+msgstr "Arată toate"
+
+#: ../template-gallery-filter.php:97 ../template-gallery-pagination.php:90
+msgid "Show Images"
+msgstr "Vedeți fotografiile"
+
+#: ../template-home-3.php:79
+msgid "Subscribe"
+msgstr "Aboneaza-te"
+
+#: ../template-home-3.php:80
+msgid "To Our Newsletter"
+msgstr "La newsletterul nostru"
+
+#: ../templates/blog_image.php:6
+msgid "Image"
+msgstr "Imagine"
+
+#: ../templates/home_blogposts.php:3
+msgid "Recent Posts"
+msgstr "Posturi recente"
+
+#: ../templates/home_bottom_posts.php:2 ../templates/home_bottom_recent.php:21
+msgid "Recent Work"
+msgstr "Lucrări recente"
+
+#: ../templates/home_bottom_posts.php:23
+msgid "Let's Discuss"
+msgstr "Să Discutați"
+
+#: ../templates/home_bottom_posts.php:45
+msgid "Most Voted Post"
+msgstr "Popular"
+
+#: ../templates/home_gallery.php:3
+msgid "Recent Galleries"
+msgstr "Galeriile recente"
+
+#: ../woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr "SKU:"
+
+#: ../woocommerce/single-product/meta.php:24
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categorie:"
+msgstr[1] "categorii:"
+
+#: ../woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+msgstr[1] "Tags:"
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "Produse similare"
+
+#~ msgid "Wellcome"
+#~ msgstr "Wellcome"
+
+#, fuzzy
+#~ msgid "Sliders Options"
+#~ msgstr "Opțiunile temei"
+
+#, fuzzy
+#~ msgid "Submit Review"
+#~ msgstr "Trimite"
+
+#, fuzzy
+#~ msgid "Checkout &rarr;"
+#~ msgstr "Comentarii noi &rarr;"
+
+#, fuzzy
+#~ msgid "Create an account?"
+#~ msgstr "Creați o pagină de pornire statică"
+
+#, fuzzy
+#~ msgid "You must be logged in to checkout."
+#~ msgstr ""
+#~ "Trebuie să fii autentificat href=\"%s\"> <a </ a> pentru a posta un "
+#~ "comentariu."
+
+#, fuzzy
+#~ msgid "Place order"
+#~ msgstr "Loc"
+
+#, fuzzy
+#~ msgid "Date:"
+#~ msgstr "Data"
+
+#, fuzzy
+#~ msgid "Customer details"
+#~ msgstr "Datele de contact"
+
+#, fuzzy
+#~ msgid "Email:"
+#~ msgstr "Poșta"
+
+#, fuzzy
+#~ msgid "Billing address"
+#~ msgstr "Adresa noastra"
+
+#, fuzzy
+#~ msgid "Select options"
+#~ msgstr "Opțiunile temei"
+
+#, fuzzy
+#~ msgid "View options"
+#~ msgstr "Opțiunile temei"
+
+#, fuzzy
+#~ msgid "Default sorting"
+#~ msgstr "Opțiunile implicite sunt restaurate"
+
+#, fuzzy
+#~ msgid "New password"
+#~ msgstr "Parola:"
+
+#, fuzzy
+#~ msgid "Save Address"
+#~ msgstr "Adresa noastra"
+
+#, fuzzy
+#~ msgid "Password"
+#~ msgstr "Parola:"
+
+#, fuzzy
+#~ msgid "Lost Password?"
+#~ msgstr "Parola:"
+
+#, fuzzy
+#~ msgid "Reset Password"
+#~ msgstr "Parola:"
+
+#, fuzzy
+#~ msgid "My Addresses"
+#~ msgstr "Adresa noastra"
+
+#, fuzzy
+#~ msgid "My Address"
+#~ msgstr "Adresa noastra"
+
+#, fuzzy
+#~ msgid "Edit"
+#~ msgstr "(Editare)"
+
+#, fuzzy
+#~ msgid "Recent Orders"
+#~ msgstr "Galeriile recente"
+
+#, fuzzy
+#~ msgid "View"
+#~ msgstr "Vezi fișierul"
+
+#, fuzzy
+#~ msgid "Page"
+#~ msgstr "Pagini"
+
+#, fuzzy
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "Comentariul dvs. așteaptă moderare"
+
+#~ msgid "select color"
+#~ msgstr "Alege culoarea"
+
+#~ msgid "Displays latest instagrams."
+#~ msgstr "Afișează cele mai recente instagrams."
+
+#~ msgid "My instagrams"
+#~ msgstr "My instagrams"
+
+#~ msgid "Instagram username:"
+#~ msgstr "Instagram username:"
+
+#~ msgid ""
+#~ "Show latest public instagrams with following hashtag (without \"#\"; if "
+#~ "empty, will show your recent instagrams):"
+#~ msgstr ""
+#~ "Arata ultimele instagrams publice cu hashtag text (fara  \"# \"; daca "
+#~ "gol, va arăta instagrams dvs. recente):"
+
+#~ msgid "Logged in as: "
+#~ msgstr "Conectat ca:"
+
+#~ msgid "Logout from Instagram"
+#~ msgstr "Deconectare de la Instagram"
+
+#~ msgid "A widget that displays your latest tweets."
+#~ msgstr "Un widget care afișează cele mai recente tweets dumneavoastră."
+
+#~ msgid "Aletheme Latest Tweets"
+#~ msgstr "Aletheme Latest Tweets"
+
+#~ msgid "Twitter Username e.g. alethemes"
+#~ msgstr "Twitter Username e.g. alethemes"
+
+#~ msgid "Number of tweets (max 20)"
+#~ msgstr "Numărul de tweets (max 20)"
+
+#~ msgid "Follow Text e.g. Follow me on Twitter"
+#~ msgstr "Follow Text e.g. Urmați-mă pe Twitter"

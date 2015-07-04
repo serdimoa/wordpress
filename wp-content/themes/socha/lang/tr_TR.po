@@ -1,0 +1,1489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Socha 2.4\n"
+"POT-Creation-Date: 2014-10-20 14:13+0200\n"
+"PO-Revision-Date: 2014-10-21 15:33+0200\n"
+"Last-Translator: CRIK0VA <alexandr.sochirca@gmail.com>\n"
+"Language-Team: Alethemes.com <alexandr.sochirca@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Error 404"
+msgstr "hata 404"
+
+#: ../404.php:12
+msgid "404 - NOT FOUND"
+msgstr "404 - BULUNAMADI"
+
+#: ../404.php:13
+msgid "Oops, This Page Could Not Be Found!"
+msgstr "Üzgünüz, Bu Sayfa bulunamadı!"
+
+#: ../404.php:15 ../single-gallery.php:42 ../single-inspiration.php:17
+#: ../single-video.php:17
+msgid "Go Back"
+msgstr "geri gitmek"
+
+#: ../404.php:16
+msgid "Homepage"
+msgstr "Anasayfa"
+
+#: ../404.php:19
+msgid "Contact Us"
+msgstr "bize Ulaşın"
+
+#: ../aletheme/etc/activation.php:49
+msgid "Theme Activation"
+msgstr "Tema Aktivasyon"
+
+#: ../aletheme/etc/activation.php:81
+#, php-format
+msgid "%s Theme Activation"
+msgstr "%s Tema Aktivasyon"
+
+#: ../aletheme/etc/activation.php:104 ../aletheme/etc/activation.php:106
+msgid "Create static front page?"
+msgstr "Statik ön sayfası oluşturma?"
+
+#: ../aletheme/etc/activation.php:108 ../aletheme/etc/activation.php:120
+#: ../aletheme/etc/activation.php:133
+msgid "Yes"
+msgstr "Evet"
+
+#: ../aletheme/etc/activation.php:109 ../aletheme/etc/activation.php:121
+#: ../aletheme/etc/activation.php:134
+msgid "No"
+msgstr "Hayır"
+
+#: ../aletheme/etc/activation.php:111
+msgid "Create a page called Home and set it to be the static front page"
+msgstr ""
+"Ana adında bir sayfa oluşturun ve statik ön sayfa olacak şekilde ayarlanır"
+
+#: ../aletheme/etc/activation.php:116 ../aletheme/etc/activation.php:118
+msgid "Create a blog page?"
+msgstr "Bir blog sayfası oluşturun?"
+
+#: ../aletheme/etc/activation.php:123
+msgid "Create a page called Blog and set it to be the posts page"
+msgstr "Bir sayfa adlandırılan Blog oluşturma ve ayarlayın mesaj sayfası olmak"
+
+#: ../aletheme/etc/activation.php:128
+msgid "Change permalink structure?"
+msgstr "Permalink yapısını değiştirmek?"
+
+#: ../aletheme/etc/activation.php:130
+msgid "Update permalink structure?"
+msgstr "Permalink yapısını güncellemek?"
+
+#: ../aletheme/etc/activation.php:136
+msgid "Change permalink structure to /&#37;postname&#37;/"
+msgstr "Permalink yapısını değiştirmek için /&#37;postname&#37;/"
+
+#: ../aletheme/etc/admin.php:36
+#: ../aletheme/options/admin/options-framework.php:318
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#: ../aletheme/etc/admin.php:37
+msgid "Sliders"
+msgstr "Sliders"
+
+#: ../aletheme/etc/admin.php:38
+msgid "Theme Info"
+msgstr "Tema Bilgisi"
+
+#: ../aletheme/etc/admin.php:38 ../aletheme/functions/info.php:5
+msgid "Theme Information"
+msgstr "Tema Bilgi"
+
+#: ../aletheme/etc/admin.php:103
+#, php-format
+msgid "Please update your <a href=\"%s\">site tagline</a>"
+msgstr "Güncelleyin Lütfen sizin <a href=\"%s\">sitesi sloganlı</a>"
+
+#: ../aletheme/etc/front.php:31
+msgid "Thank you for your comment!"
+msgstr "Yorumlarınız için teşekkür ederiz!"
+
+#: ../aletheme/etc/front.php:182
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: ../aletheme/etc/front.php:183
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../aletheme/etc/front.php:184
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: ../aletheme/etc/front.php:187
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor."
+
+#: ../aletheme/etc/front.php:202
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr "Bu yazı parola korumalı. Altında şifrenizi giriniz görüntülemek için:"
+
+#: ../aletheme/etc/front.php:203
+msgid "Password:"
+msgstr "Şifre:"
+
+#: ../aletheme/etc/front.php:333
+msgid "Search for"
+msgstr "aramak"
+
+#: ../aletheme/etc/front.php:345 ../aletheme/etc/front.php:348
+#: ../aletheme/etc/front.php:351 ../aletheme/functions/general.php:1070
+#: ../archive.php:41 ../attachment.php:36 ../author.php:41
+msgid "Archives"
+msgstr "Arşivler"
+
+#: ../aletheme/etc/front.php:504
+msgid "Something went wrong. Please refresh page and try again."
+msgstr "Bir şeyler yanlış gitti. Sayfayı yenileyin ve tekrar deneyin."
+
+#: ../aletheme/etc/media.php:14
+msgid "Hide"
+msgstr "gizle"
+
+#: ../aletheme/etc/media.php:156
+msgid "Gallery Images"
+msgstr "Galeri Görüntüleri"
+
+#: ../aletheme/etc/media.php:201 ../aletheme/etc/media.php:208
+msgid "Add Image"
+msgstr "Resim Ekle"
+
+#: ../aletheme/etc/media.php:201 ../aletheme/etc/media.php:208
+msgid "Upload Images"
+msgstr "Görüntüler Yükle"
+
+#: ../aletheme/etc/media.php:201
+msgid "Manage Gallery"
+msgstr "galerisini yönet"
+
+#: ../aletheme/etc/nav.php:143
+msgid "Advanced Navigation"
+msgstr "Gelişmiş Navigasyon"
+
+#: ../aletheme/etc/nav.php:161
+msgid "Archive"
+msgstr "Arşiv"
+
+#: ../aletheme/etc/system.php:63
+msgid "Header Menu"
+msgstr "Kafa Menü"
+
+#: ../aletheme/functions/general.php:1459 ../aletheme/functions/tgm.php:164
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri yükleyin"
+
+#: ../aletheme/functions/general.php:1460 ../aletheme/functions/tgm.php:165
+msgid "Install Plugins"
+msgstr "Eklentileri yükleyin"
+
+#: ../aletheme/functions/general.php:1461 ../aletheme/functions/tgm.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin yükleme: %s"
+
+#: ../aletheme/functions/general.php:1462
+msgid "Something went wrong with the plugin API."
+msgstr "Bir şey API eklentisi ile yanlış gitti."
+
+#: ../aletheme/functions/general.php:1473 ../aletheme/functions/tgm.php:178
+#: ../aletheme/functions/tgm.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklentiler Installer dön"
+
+#: ../aletheme/functions/general.php:1474 ../aletheme/functions/tgm.php:179
+#: ../aletheme/functions/tgm.php:1868
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla aktif."
+
+#: ../aletheme/functions/general.php:1475
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tüm eklentileri yüklü ve başarılı bir şekilde aktif.  %s"
+
+#: ../aletheme/functions/images_media.php:353
+msgid ""
+"Sorry that seems to be an invalid <strong>YouTube</strong> URL. Please check "
+"it again."
+msgstr ""
+"Maalesef bu geçersiz <strong> YouTube </ strong> URL gibi görünüyor. Tekrar "
+"kontrol edin."
+
+#: ../aletheme/functions/images_media.php:396
+msgid ""
+"Sorry that seems to be an invalid <strong>Vimeo</strong> URL. Please check "
+"it again. Make sure there is a string of numbers at the end (e.g. http://"
+"vimeo.com/1234567)."
+msgstr ""
+"Maalesef bu geçersiz <strong> Vimeo </strong> URL gibi görünüyor. Tekrar "
+"kontrol edin. Sayılar bir dize (örneğin http://vimeo.com/1234567) sonunda "
+"olduğundan emin olun."
+
+#: ../aletheme/functions/info.php:8
+msgid "General Information"
+msgstr "Genel bilgi"
+
+#: ../aletheme/functions/info.php:11
+msgid "WordPress Version"
+msgstr "WordPress Sürüm"
+
+#: ../aletheme/functions/info.php:12
+msgid "URL"
+msgstr "URL"
+
+#: ../aletheme/functions/info.php:13
+msgid "Theme Version"
+msgstr "Tema Sürüm"
+
+#: ../aletheme/functions/info.php:14
+msgid "PHP Version"
+msgstr "PHP Sürümü"
+
+#: ../aletheme/functions/info.php:15
+msgid "MySQL server version"
+msgstr "MySQL sunucu sürümü"
+
+#: ../aletheme/functions/info.php:16
+msgid "Theme created date"
+msgstr "Tema oluşturulan tarih"
+
+#: ../aletheme/functions/info.php:17
+msgid "Theme last update date"
+msgstr "Tema son güncelleme tarihi"
+
+#: ../aletheme/functions/info.php:18
+msgid "Support Forum"
+msgstr "Destek Forumu"
+
+#: ../aletheme/functions/info.php:19
+msgid "Online Documentation"
+msgstr "çevrimiçi Belgeler"
+
+#: ../aletheme/functions/info.php:22
+msgid "Installed Plugins"
+msgstr "yüklü eklentiler"
+
+#: ../aletheme/functions/info.php:28
+msgid "Changelog"
+msgstr "changelog"
+
+#: ../aletheme/functions/tgm.php:167
+msgid "Something went wrong."
+msgstr "Bir şeyler yanlış gitti."
+
+#: ../aletheme/functions/tgm.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentileri yüklü ve başarılı bir şekilde aktif. %1$s"
+
+#: ../aletheme/functions/tgm.php:517 ../aletheme/functions/tgm.php:2080
+msgid "Return to the Dashboard"
+msgstr "Dashboard dön"
+
+#: ../aletheme/functions/tgm.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Aşağıdaki eklenti başarıyla aktive edildi: %s."
+
+#: ../aletheme/functions/tgm.php:704
+msgid "Dismiss this notice"
+msgstr "Bu haber Dismiss"
+
+#: ../aletheme/functions/tgm.php:1113
+msgid "External Link"
+msgstr "dış Bağlantı"
+
+#: ../aletheme/functions/tgm.php:1118
+msgid "Private Repository"
+msgstr "özel Deposu"
+
+#: ../aletheme/functions/tgm.php:1121
+msgid "Pre-Packaged"
+msgstr "Ön Paketlenmiş"
+
+#: ../aletheme/functions/tgm.php:1125
+msgid "WordPress Repository"
+msgstr "WordPress Deposu"
+
+#: ../aletheme/functions/tgm.php:1128
+msgid "Required"
+msgstr "gerekli"
+
+#: ../aletheme/functions/tgm.php:1128
+msgid "Recommended"
+msgstr "önerilen"
+
+#: ../aletheme/functions/tgm.php:1131
+msgid "Not Installed"
+msgstr "Yüklü değil"
+
+#: ../aletheme/functions/tgm.php:1133
+msgid "Installed But Not Activated"
+msgstr "Ama Yüklü Aktif Değil"
+
+#: ../aletheme/functions/tgm.php:1303
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Hayır eklenti yüklemek veya etkinleştirmek için. <a href=\"%1$s\" title="
+"\"Return to the Dashboard\">Dashboard dön</a>"
+
+#: ../aletheme/functions/tgm.php:1319
+msgid "Plugin"
+msgstr "eklentisi"
+
+#: ../aletheme/functions/tgm.php:1320
+msgid "Source"
+msgstr "kaynak"
+
+#: ../aletheme/functions/tgm.php:1321
+msgid "Type"
+msgstr "Tür"
+
+#: ../aletheme/functions/tgm.php:1322
+msgid "Status"
+msgstr "Durum"
+
+#: ../aletheme/functions/tgm.php:1340
+msgid "Install"
+msgstr "Install"
+
+#: ../aletheme/functions/tgm.php:1341
+msgid "Activate"
+msgstr "etkinleştirin"
+
+#: ../aletheme/functions/tgm.php:1566
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla aktive edildi:"
+msgstr[1] "Aşağıdaki eklentileri başarıyla aktive edildi:"
+
+#: ../aletheme/functions/tgm.php:1851
+msgid "Install package not available."
+msgstr "Mevcut değil paketini yükleyin."
+
+#: ../aletheme/functions/tgm.php:1852
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Yükleme paketi indirmek,<span class=\"code\">%s</span>&#8230;"
+
+#: ../aletheme/functions/tgm.php:1853
+msgid "Unpacking the package&#8230;"
+msgstr "Paket paketinin açılması&#8230;"
+
+#: ../aletheme/functions/tgm.php:1854
+msgid "Installing the plugin&#8230;"
+msgstr "Eklentiyi yükledikten&#8230;"
+
+#: ../aletheme/functions/tgm.php:1855
+msgid "Plugin install failed."
+msgstr "Eklenti başarısız yüklemek."
+
+#: ../aletheme/functions/tgm.php:1856
+msgid "Plugin installed successfully."
+msgstr "Eklentisi başarıyla yüklendi."
+
+#: ../aletheme/functions/tgm.php:1867
+msgid "Plugin activation failed."
+msgstr "Eklenti aktivasyonu başarısız."
+
+#: ../aletheme/functions/tgm.php:1977
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Kurulum ve aktivasyon işlemi başlıyor. Bu süreç bazı bilgisayarlar üzerinde "
+"bir süre alabilir, bu yüzden lütfen sabırlı olun olabilir."
+
+#: ../aletheme/functions/tgm.php:1978
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s yüklü ve başarılı bir şekilde aktif."
+
+#: ../aletheme/functions/tgm.php:1978 ../aletheme/functions/tgm.php:1987
+msgid "Show Details"
+msgstr "Detayları Göster"
+
+#: ../aletheme/functions/tgm.php:1978 ../aletheme/functions/tgm.php:1987
+msgid "Hide Details"
+msgstr "Ayrıntıları Gizle"
+
+#: ../aletheme/functions/tgm.php:1979
+msgid "All installations and activations have been completed."
+msgstr "Tüm tesisat ve aktivasyonlar tamamlanmıştır."
+
+#: ../aletheme/functions/tgm.php:1980
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Yükleme ve Plugin Etkinleştirilmesi  %1$s (%2$d/%3$d)"
+
+#: ../aletheme/functions/tgm.php:1984
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Yükleme işlemi başlıyor. Bu süreç bazı bilgisayarlar üzerinde bir süre "
+"alabilir, bu yüzden lütfen sabırlı olun olabilir."
+
+#: ../aletheme/functions/tgm.php:1985
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Yüklerken bir hata oluştu %1$s: <strong>%2$s</strong>."
+
+#: ../aletheme/functions/tgm.php:1986
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Kurulumu %1$s failed."
+
+#: ../aletheme/functions/tgm.php:1987
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla yüklendi."
+
+#: ../aletheme/functions/tgm.php:1988
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlanmıştır."
+
+#: ../aletheme/functions/tgm.php:1989
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "yükleme Eklentisi %1$s (%2$d/%3$d)"
+
+#: ../aletheme/options/admin/options-framework.php:192
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Sıfırlamak için Tamam'a tıklayın. Herhangi bir tema ayarlar silinecektir!"
+
+#: ../aletheme/options/admin/options-framework.php:224
+msgid "Default options restored."
+msgstr "Standart seçenekleri restore."
+
+#: ../aletheme/options/admin/options-framework.php:267
+msgid "Options saved."
+msgstr "Seçenekler kaydedildi."
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:27
+msgid "Theme Options Media"
+msgstr "Tema Seçenekleri Medya"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:130
+msgid "Upload"
+msgstr "yükleme"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:153
+msgid "View File"
+msgstr "Görünüm Dosya"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:290
+#: ../archive-gallery.php:15 ../taxonomy-gallery-category.php:23
+#: ../templates/blog_gallery.php:29
+msgid "Gallery"
+msgstr "Galeri"
+
+#: ../aletheme/options/admin/options-medialibrary-uploader.php:290
+msgid "Previously Uploaded"
+msgstr "önceden Eklenmiş"
+
+#: ../aletheme/options/admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr "Hayır Tekrar"
+
+#: ../aletheme/options/admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr "Yatay tekrarlayın"
+
+#: ../aletheme/options/admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr "Dikey tekrarlayın"
+
+#: ../aletheme/options/admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr "Tümünü tekrarla"
+
+#: ../aletheme/options/admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr "Top Left"
+
+#: ../aletheme/options/admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr "Top Center"
+
+#: ../aletheme/options/admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr "Top Right"
+
+#: ../aletheme/options/admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr "Middle Left"
+
+#: ../aletheme/options/admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr "Middle Center"
+
+#: ../aletheme/options/admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr "Middle Right"
+
+#: ../aletheme/options/admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: ../aletheme/options/admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr "Bottom Center"
+
+#: ../aletheme/options/admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr "Bottom Right"
+
+#: ../aletheme/options/admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr "Scroll Normally"
+
+#: ../aletheme/options/admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr "Fixed in Place"
+
+#: ../aletheme/options/admin/options-sanitize.php:337
+msgid "Normal"
+msgstr "Normal"
+
+#: ../aletheme/options/admin/options-sanitize.php:338
+msgid "Italic"
+msgstr "Italic"
+
+#: ../aletheme/options/admin/options-sanitize.php:339
+msgid "Bold"
+msgstr "Bold"
+
+#: ../aletheme/options/admin/options-sanitize.php:340
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: ../aletheme/shortcodes/shortcodes.php:471
+msgid "No location for the address."
+msgstr "Adresi için hiçbir yer."
+
+#: ../aletheme/shortcodes/shortcodes.php:473
+msgid "Bad request. Did you enter an address name?"
+msgstr "Geçersiz istek. Eğer bir adres adı girin mü?"
+
+#: ../aletheme/shortcodes/shortcodes.php:475
+msgid "Error, please check if you have entered the shortcode correctly."
+msgstr "Doğru SHORTCODE girmiş Hata, kontrol edin."
+
+#: ../aletheme/shortcodes/shortcodes.php:479
+msgid "Can't connect Google API."
+msgstr "Google API bağlanamıyor."
+
+#: ../aletheme/shortcodes/tinymce/config.php:13
+msgid "Button URL"
+msgstr "düğme URL"
+
+#: ../aletheme/shortcodes/tinymce/config.php:14
+msgid "Add the button's url eg http://example.com"
+msgstr "Düğmenin url örneğin http://example.com ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:18
+msgid "Button Style"
+msgstr "düğme Stili"
+
+#: ../aletheme/shortcodes/tinymce/config.php:19
+msgid "Select the button's style, ie the button's colour"
+msgstr "Düğmenin rengi, yani düğmenin stili seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:33
+msgid "Button Size"
+msgstr "düğme Boyutu"
+
+#: ../aletheme/shortcodes/tinymce/config.php:34
+msgid "Select the button's size"
+msgstr "Düğmenin boyutunu seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:43
+msgid "Button Type"
+msgstr "düğme Tipi"
+
+#: ../aletheme/shortcodes/tinymce/config.php:44
+msgid "Select the button's type"
+msgstr "Düğmenin türünü seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:52
+msgid "Button Target"
+msgstr "düğme Hedef"
+
+#: ../aletheme/shortcodes/tinymce/config.php:53
+msgid "_self = open in same window. _blank = open in new window"
+msgstr "_self = aynı pencerede açmak.. _blank = Yeni pencerede aç"
+
+#: ../aletheme/shortcodes/tinymce/config.php:62
+msgid "Button's Text"
+msgstr "Button Text"
+
+#: ../aletheme/shortcodes/tinymce/config.php:63
+msgid "Add the button's text"
+msgstr "Düğmenin metni ekleme"
+
+#: ../aletheme/shortcodes/tinymce/config.php:67
+msgid "Insert Button Shortcode"
+msgstr "Düğme SHORTCODE takın"
+
+#: ../aletheme/shortcodes/tinymce/config.php:79
+msgid "Alert Style"
+msgstr "uyarı Stil"
+
+#: ../aletheme/shortcodes/tinymce/config.php:80
+msgid "Select the alert's style, ie the alert colour"
+msgstr "Uyarı'nın stilini seçin, uyarı rengini yani"
+
+#: ../aletheme/shortcodes/tinymce/config.php:92
+msgid "Alert Text"
+msgstr "uyarı Metni"
+
+#: ../aletheme/shortcodes/tinymce/config.php:93
+msgid "Add the alert's text"
+msgstr "Uyarı'nın metin ekleme"
+
+#: ../aletheme/shortcodes/tinymce/config.php:98
+msgid "Insert Alert Shortcode"
+msgstr "Ekle Uyarısı Kısa kod"
+
+#: ../aletheme/shortcodes/tinymce/config.php:110
+msgid "Toggle Content Title"
+msgstr "TOGGLE Başlık"
+
+#: ../aletheme/shortcodes/tinymce/config.php:111
+msgid "Add the title that will go above the toggle content"
+msgstr "Geçiş içeriğin üzerinde gidecek başlık ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:117
+msgid "Toggle Content"
+msgstr "Toggle içerik"
+
+#: ../aletheme/shortcodes/tinymce/config.php:118
+msgid "Add the toggle content. Will accept HTML"
+msgstr "Mafsallı içerik ekleyin. HTML kabul edecek"
+
+#: ../aletheme/shortcodes/tinymce/config.php:122
+msgid "Toggle State"
+msgstr "geçiş Devlet"
+
+#: ../aletheme/shortcodes/tinymce/config.php:123
+msgid "Select the state of the toggle on page load"
+msgstr "Sayfa yük geçiş durumunu seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:132
+msgid "Insert Toggle Content Shortcode"
+msgstr "Takın _TOGGLE Kısa kod"
+
+#: ../aletheme/shortcodes/tinymce/config.php:143
+msgid "Insert Tab Shortcode"
+msgstr "Sekme SHORTCODE takın"
+
+#: ../aletheme/shortcodes/tinymce/config.php:150
+msgid "Tab Title"
+msgstr "sekme Başlığı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:151
+msgid "Title of the tab"
+msgstr "Sekmesinin başlık"
+
+#: ../aletheme/shortcodes/tinymce/config.php:156
+msgid "Tab Content"
+msgstr "Tab Content"
+
+#: ../aletheme/shortcodes/tinymce/config.php:157
+msgid "Add the tabs content"
+msgstr "Sekmeler içerik ekleyin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:161
+msgid "Add Tab"
+msgstr "Sekme Ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:172
+msgid "Insert Columns Shortcode"
+msgstr "Ekle Sütunlar Kısa kod"
+
+#: ../aletheme/shortcodes/tinymce/config.php:180
+msgid "Column Type"
+msgstr "kolon Tipi"
+
+#: ../aletheme/shortcodes/tinymce/config.php:181
+msgid "Select the type, ie width of the column."
+msgstr "Tipi, sütunun, yani genişlik seçin."
+
+#: ../aletheme/shortcodes/tinymce/config.php:210
+msgid "Column Content"
+msgstr "sütun İçerik"
+
+#: ../aletheme/shortcodes/tinymce/config.php:211
+msgid "Add the column content."
+msgstr "Sütun içeriği ekleyin."
+
+#: ../aletheme/shortcodes/tinymce/config.php:215
+msgid "Add Column"
+msgstr "Sütun ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:228
+msgid "Divider Style"
+msgstr "bölücü Stil"
+
+#: ../aletheme/shortcodes/tinymce/config.php:229
+msgid "Select the divider's style"
+msgstr "Bölücü stili seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:241
+#: ../aletheme/shortcodes/tinymce/config.php:253
+msgid "Divider Text"
+msgstr "bölücü Metin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:242
+msgid "Select the divider's text option"
+msgstr "Bölücü metin seçeneği seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:254
+msgid "Add the divider's text"
+msgstr "Bölücü metin ekleme"
+
+#: ../aletheme/shortcodes/tinymce/config.php:259
+msgid "Insert Divider Shortcode"
+msgstr "Ekle Bölücü Kısa kod"
+
+#: ../aletheme/shortcodes/tinymce/config.php:271
+msgid "Testimonial Style"
+msgstr "Övgüleri Stil"
+
+#: ../aletheme/shortcodes/tinymce/config.php:272
+msgid "Select the testimonial's style"
+msgstr "Övgüleri stilini seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:281
+msgid "Testimonial Author photo link"
+msgstr "Övgüleri Yazar fotoğraf bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:282
+msgid "Add the testimonial's author photo link."
+msgstr "Övgüleri yazarı fotoğraf bağlantısını ekleyin."
+
+#: ../aletheme/shortcodes/tinymce/config.php:287
+msgid "Testimonial Author"
+msgstr "Övgüleri Yazar"
+
+#: ../aletheme/shortcodes/tinymce/config.php:288
+msgid "Add the testimonial's author"
+msgstr "Övgüleri yazarı ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:293
+msgid "Testimonial Link"
+msgstr "Övgüleri Bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:294
+msgid "Add the testimonial's link"
+msgstr "Övgüleri linkini ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:299
+#: ../aletheme/shortcodes/tinymce/config.php:364
+msgid "Testimonial Text"
+msgstr "Övgüleri Metin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:300
+#: ../aletheme/shortcodes/tinymce/config.php:365
+msgid "Add the testimonial's text"
+msgstr "Bonservisi en metin ekleme"
+
+#: ../aletheme/shortcodes/tinymce/config.php:305
+msgid "Insert Testimonial Shortcode"
+msgstr "Övgüleri SHORTCODE takın"
+
+#: ../aletheme/shortcodes/tinymce/config.php:318
+msgid "Team box Style"
+msgstr "Takım kutusu Stil"
+
+#: ../aletheme/shortcodes/tinymce/config.php:319
+msgid "Select the team box's style"
+msgstr "Takım kutusunun stil seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:328
+msgid "Team Author photo link"
+msgstr "Takım Yazar fotoğraf bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:329
+msgid "Add the team's author photo link."
+msgstr "Takımın yazarı fotoğraf bağlantısını ekleyin."
+
+#: ../aletheme/shortcodes/tinymce/config.php:334
+msgid "Team Author"
+msgstr "Takım Yazar"
+
+#: ../aletheme/shortcodes/tinymce/config.php:335
+msgid "Add the team's author"
+msgstr "Takımın yazarı ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:340
+msgid "Team Prof"
+msgstr "Takım Prof"
+
+#: ../aletheme/shortcodes/tinymce/config.php:341
+msgid "Add the prof. team's author"
+msgstr "Prof ekleyin. Takımın yazarı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:346
+msgid "Facebook Link"
+msgstr "Facebook Bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:347
+msgid "Add the facebook link"
+msgstr "Facebook link ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:352
+msgid "Twitter Link"
+msgstr "Twitter Bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:353
+msgid "Add the twitter link"
+msgstr "Twitter link ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:358
+msgid "Google+ Link"
+msgstr "Google+ Bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:359
+msgid "Add the google+ link"
+msgstr "Google + ekle link"
+
+#: ../aletheme/shortcodes/tinymce/config.php:370
+msgid "Insert Team Shortcode"
+msgstr "Takım SHORTCODE takın"
+
+#: ../aletheme/shortcodes/tinymce/config.php:382
+#: ../aletheme/shortcodes/tinymce/config.php:424
+msgid "Partner box Style"
+msgstr "Ortak kutusu Stil"
+
+#: ../aletheme/shortcodes/tinymce/config.php:383
+#: ../aletheme/shortcodes/tinymce/config.php:425
+msgid "Select the partner box's style"
+msgstr "Ortak kutusunun stil seçin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:392
+msgid "Partner logo link"
+msgstr "Ortak logosu bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:393
+msgid "Add the partner's logo link."
+msgstr "Ortağının logosu bağlantısını ekleyin."
+
+#: ../aletheme/shortcodes/tinymce/config.php:398
+msgid "Partner Title"
+msgstr "Ortak Başlık"
+
+#: ../aletheme/shortcodes/tinymce/config.php:399
+msgid "Add the partner's title"
+msgstr "Ortağının başlık eklemek"
+
+#: ../aletheme/shortcodes/tinymce/config.php:405
+msgid "Partner Link"
+msgstr "Ortak Bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:406
+msgid "Add the partner link"
+msgstr "Ortağı link ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:411
+msgid "Insert Partner Shortcode"
+msgstr "Ortak SHORTCODE takın"
+
+#: ../aletheme/shortcodes/tinymce/config.php:434
+msgid "Service icon link"
+msgstr "Servis simgesi bağlantı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:435
+msgid "Add the service's icon link."
+msgstr "Hizmetin simgesi bağlantısını ekleyin."
+
+#: ../aletheme/shortcodes/tinymce/config.php:440
+msgid "Service Title"
+msgstr "hizmet Başlığı"
+
+#: ../aletheme/shortcodes/tinymce/config.php:441
+msgid "Add the service title"
+msgstr "Hizmet başlık ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:446
+msgid "Short Description"
+msgstr "kısa Açıklama"
+
+#: ../aletheme/shortcodes/tinymce/config.php:447
+msgid "Add the service's description"
+msgstr "Hizmetinin açıklama ekleyin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:453
+msgid "Insert Service Shortcode"
+msgstr "Servis SHORTCODE takın"
+
+#: ../aletheme/shortcodes/tinymce/config.php:466
+msgid "Add the Address"
+msgstr "Adres Ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:467
+msgid "Add the address"
+msgstr "Adresini ekleyin"
+
+#: ../aletheme/shortcodes/tinymce/config.php:472
+msgid "Map width"
+msgstr "harita genişliği"
+
+#: ../aletheme/shortcodes/tinymce/config.php:473
+msgid "Add the width"
+msgstr "Genişlik ekleme"
+
+#: ../aletheme/shortcodes/tinymce/config.php:478
+msgid "Map height"
+msgstr "harita yükseklik"
+
+#: ../aletheme/shortcodes/tinymce/config.php:479
+msgid "Add the map height"
+msgstr "Harita yüksekliğini ekle"
+
+#: ../aletheme/shortcodes/tinymce/config.php:485
+msgid "Insert Map Shortcode"
+msgstr "Harita SHORTCODE takın"
+
+#: ../aletheme/sliders/sliders.php:413
+msgid "Insert Slider"
+msgstr "Ekle Slider"
+
+#: ../aletheme/sliders/sliders.php:426
+msgid "Select Slider"
+msgstr "Slider seçin"
+
+#: ../aletheme/widgets/widget-about.php:17
+msgid "A widget that displays a short information about you."
+msgstr "Senin hakkında kısa bilgi görüntüler bir widget."
+
+#: ../aletheme/widgets/widget-about.php:28
+msgid "Aletheme About Me"
+msgstr "Hakkımda Aletheme"
+
+#: ../aletheme/widgets/widget-about.php:99
+msgid "About Me"
+msgstr "benim hakkımda"
+
+#: ../aletheme/widgets/widget-about.php:109
+#: ../aletheme/widgets/widget-blog.php:117
+#: ../aletheme/widgets/widget-facebook.php:102
+#: ../aletheme/widgets/widget-mostcommented.php:138
+#: ../aletheme/widgets/widget-testimonials.php:118
+msgid "Title:"
+msgstr "Başlık:"
+
+#: ../aletheme/widgets/widget-about.php:117
+#: ../aletheme/widgets/widget-blog.php:121
+#: ../aletheme/widgets/widget-mostcommented.php:142
+#: ../aletheme/widgets/widget-testimonials.php:122
+msgid "Posts to show:"
+msgstr "Mesajlar göstermek için:"
+
+#: ../aletheme/widgets/widget-blog.php:15
+msgid "A widget that displays your latest posts with image."
+msgstr "Görüntü ile son mesajları görüntüler bir widget."
+
+#: ../aletheme/widgets/widget-blog.php:26
+msgid "Aletheme Recent Posts"
+msgstr "Aletheme Son Mesajlar"
+
+#: ../aletheme/widgets/widget-blog.php:112
+msgid "Latest Blog Posts"
+msgstr "Son Blog Yazıları"
+
+#: ../aletheme/widgets/widget-facebook.php:97
+msgid "Theme on"
+msgstr "Theme"
+
+#: ../aletheme/widgets/widget-facebook.php:106
+msgid "Your link to share:"
+msgstr "Link paylaşmak:"
+
+#: ../aletheme/widgets/widget-flickr.php:88
+#: ../aletheme/widgets/widget-flickr.php:89
+msgid "by"
+msgstr "tarafından"
+
+#: ../aletheme/widgets/widget-mostcommented.php:75
+#: ../aletheme/widgets/widget-mostcommented.php:89 ../partials/postfull.php:5
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Bir Yorum"
+msgstr[1] "%1$s Yorumlar"
+
+#: ../aletheme/widgets/widget-mostcommented.php:133
+msgid "Most Commented"
+msgstr "çok Yorumlananlar"
+
+#: ../aletheme/widgets/widget-testimonials.php:113
+msgid "- Testimonials -"
+msgstr "- Tavsiyeler -"
+
+#: ../archive-gallery.php:17 ../archive-inspiration.php:22
+#: ../archive-press.php:22 ../archive-testimonials.php:22
+#: ../archive-video.php:22 ../partials/archives.php:12
+#: ../taxonomy-gallery-category.php:25 ../template-blog-centered.php:34
+#: ../template-blog.php:34 ../template-gallery-pagination.php:48
+msgid "NEWER"
+msgstr "NEWER"
+
+#: ../archive-gallery.php:17 ../archive-inspiration.php:22
+#: ../archive-press.php:22 ../archive-testimonials.php:22
+#: ../archive-video.php:22 ../partials/archives.php:12
+#: ../taxonomy-gallery-category.php:25 ../template-blog-centered.php:34
+#: ../template-blog.php:34 ../template-gallery-pagination.php:48
+msgid "OLDER"
+msgstr "YAŞLI"
+
+#: ../archive-inspiration.php:15
+msgid "Inspiration"
+msgstr "ilham"
+
+#: ../archive-inspiration.php:40 ../archive-inspiration.php:53
+#: ../single-inspiration.php:75
+msgid "Place"
+msgstr "Yer"
+
+#: ../archive-inspiration.php:41 ../archive-inspiration.php:54
+#: ../single-gallery.php:54 ../single-inspiration.php:76
+msgid "Date"
+msgstr "Tarih"
+
+#: ../archive-inspiration.php:42 ../archive-inspiration.php:55
+#: ../single-inspiration.php:77
+msgid "Impression & Feelings"
+msgstr "Gösterim & Hissiyat"
+
+#: ../archive-inspiration.php:44 ../archive-inspiration.php:57
+#: ../page-home.php:26 ../tag.php:48 ../template-blog-centered.php:58
+#: ../template-blog.php:100 ../template-home-1.php:27
+#: ../template-home-1.php:122 ../template-home-2.php:92
+#: ../template-home-3.php:64 ../template-home-4.php:116
+#: ../template-home-5.php:24 ../template-home-one.php:36
+#: ../templates/blog_gallery.php:52 ../templates/blog_quote.php:26
+#: ../templates/blog_standart.php:37 ../templates/blog_video.php:25
+msgid "Read More"
+msgstr "devamını oku"
+
+#: ../archive-press.php:15
+msgid "Press"
+msgstr "Basın"
+
+#: ../archive-press.php:43
+msgid "OPEN SITE"
+msgstr "AÇIK SİTE"
+
+#: ../archive-press.php:47
+msgid "READ MORE"
+msgstr "devamını oku"
+
+#: ../archive-press.php:66
+msgid "ONLINE"
+msgstr "ONLINE"
+
+#: ../archive-press.php:66
+msgid "PRINT"
+msgstr "BASKI"
+
+#: ../archive-testimonials.php:15
+msgid "Testimonials"
+msgstr "Görüşler"
+
+#: ../archive-video.php:15
+msgid "Videos"
+msgstr "Videolar"
+
+#: ../archive-video.php:41
+msgid "VIDEO"
+msgstr "VİDEO"
+
+#: ../archive-video.php:68
+msgid "watch the video"
+msgstr "video izle"
+
+#: ../archive.php:17 ../attachment.php:12 ../author.php:17 ../category.php:17
+#: ../category.php:41 ../image.php:12 ../index.php:17 ../search.php:17
+#: ../single.php:17
+msgid "BLOG CATEGORIES"
+msgstr "BLOG KATEGORİLER"
+
+#: ../archive.php:23 ../attachment.php:18 ../author.php:23 ../category.php:23
+#: ../image.php:18 ../index.php:23 ../search.php:23 ../single-gallery.php:26
+#: ../single.php:23
+msgid "All"
+msgstr "Tüm"
+
+#: ../archive.php:33 ../attachment.php:28 ../author.php:33 ../category.php:33
+#: ../image.php:28 ../index.php:33 ../search.php:33 ../single.php:33
+msgid "SEARCH THE BLOG"
+msgstr "BLOG ARAMA"
+
+#: ../comments.php:17 ../comments.php:96 ../comments.php:128
+#: ../comments.php:207 ../comments.php:239 ../comments.php:318
+#: ../comments.php:350 ../comments.php:429 ../comments.php:461
+#: ../comments.php:540
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: ../comments.php:23 ../comments.php:134 ../comments.php:245
+#: ../comments.php:356 ../comments.php:467
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı parola korumalı. Yazıyı görmek için parolanızı girin."
+
+#: ../comments.php:32 ../comments.php:143 ../comments.php:254
+#: ../comments.php:365 ../comments.php:476
+msgid "&larr; Older comments"
+msgstr "&larr; eski yorum"
+
+#: ../comments.php:33 ../comments.php:144 ../comments.php:255
+#: ../comments.php:366 ../comments.php:477
+msgid "Newer comments &rarr;"
+msgstr "yeni yorumlar &rarr;"
+
+#: ../comments.php:42 ../comments.php:153 ../comments.php:264
+#: ../comments.php:375 ../comments.php:486
+msgid "comment this post"
+msgstr "Bu yazı yorumu"
+
+#: ../comments.php:46 ../comments.php:157 ../comments.php:268
+#: ../comments.php:379 ../comments.php:490
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Sen olmalısın <a href=\"%s\">kaydedilir</a> Yorum yazmak için."
+
+#: ../comments.php:52 ../comments.php:163 ../comments.php:274
+#: ../comments.php:385 ../comments.php:496
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Olarak oturum <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: ../comments.php:53 ../comments.php:164 ../comments.php:275
+#: ../comments.php:386 ../comments.php:497
+msgid "Log out of this account"
+msgstr "Bu hesaptan Log"
+
+#: ../comments.php:53 ../comments.php:164 ../comments.php:275
+#: ../comments.php:386 ../comments.php:497
+msgid "Log out &raquo;"
+msgstr "Oturumu &raquo;"
+
+#: ../comments.php:56 ../comments.php:167 ../comments.php:278
+#: ../comments.php:389 ../comments.php:500 ../template-contact-two.php:53
+#: ../template-contact.php:49
+msgid "Name"
+msgstr "İsim"
+
+#: ../comments.php:56 ../comments.php:57 ../comments.php:167
+#: ../comments.php:168 ../comments.php:278 ../comments.php:279
+#: ../comments.php:389 ../comments.php:390 ../comments.php:500
+#: ../comments.php:501
+msgid "*"
+msgstr "*"
+
+#: ../comments.php:57 ../comments.php:168 ../comments.php:279
+#: ../comments.php:390 ../comments.php:501 ../template-contact-two.php:57
+#: ../template-contact.php:52
+msgid "Email"
+msgstr "E-posta"
+
+#: ../comments.php:58 ../comments.php:169 ../comments.php:280
+#: ../comments.php:391 ../comments.php:502
+msgid "Website"
+msgstr "Web Sitesi"
+
+#: ../comments.php:63 ../comments.php:174 ../comments.php:285
+#: ../comments.php:396 ../comments.php:507
+msgid "Comment"
+msgstr "Yorum"
+
+#: ../comments.php:64 ../comments.php:175 ../comments.php:286
+#: ../comments.php:397 ../comments.php:508
+msgid "Click on form to scroll"
+msgstr "Kaydırmak için formda tıklayın"
+
+#: ../comments.php:67 ../comments.php:178 ../comments.php:289
+#: ../comments.php:400 ../comments.php:511
+msgid "Submit"
+msgstr "Gönder"
+
+#: ../comments.php:68 ../comments.php:179 ../comments.php:290
+#: ../comments.php:401 ../comments.php:512 ../template-contact-two.php:71
+#: ../template-contact.php:66
+msgid "Clear"
+msgstr "temizle"
+
+#: ../comments.php:87 ../comments.php:198 ../comments.php:309
+#: ../comments.php:420 ../comments.php:531
+msgid ""
+"Please download the DISQUS plugin from Wordpress Repository and install it."
+msgstr "Wordpress Repository disqus eklenti indirin ve kurun lütfen."
+
+#: ../comments.php:91 ../comments.php:202 ../comments.php:313
+#: ../comments.php:424 ../comments.php:535
+msgid ""
+"Please download the Livefyre Realtime Comments plugin from Wordpress "
+"Repository and install it."
+msgstr ""
+"Wordpress Repository Livefyre Zamanlı Yorumlar Eklentiyi indirmek ve kurun."
+
+#: ../comments.php:103 ../comments.php:214 ../comments.php:325
+#: ../comments.php:436 ../comments.php:547
+msgid "Comment navigation"
+msgstr "Yorum navigasyon"
+
+#: ../comments.php:104 ../comments.php:215 ../comments.php:326
+#: ../comments.php:437 ../comments.php:548
+msgid "Older Comments"
+msgstr "eski Yorumlar"
+
+#: ../comments.php:105 ../comments.php:216 ../comments.php:327
+#: ../comments.php:438 ../comments.php:549
+msgid "Newer Comments"
+msgstr "yeni Yorumlar"
+
+#: ../footer.php:6
+msgid "2014. Socha Responsive Theme. ALL RIGHTS RESERVED."
+msgstr "2014 Socha Duyarlı Tema. Her hakkı saklıdır."
+
+#: ../footer.php:9
+msgid "TOP"
+msgstr "TOP"
+
+#: ../image.php:50
+msgid "Previous Image"
+msgstr "Önceki Resim"
+
+#: ../image.php:51
+msgid "Next Image"
+msgstr "Sonraki Resim"
+
+#: ../index.php:41
+msgid "BLOG"
+msgstr "BLOG"
+
+#: ../page-home.php:95 ../templates/home_customcontent.php:3
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: ../partials/archives.php:5
+msgid "Prev Post"
+msgstr "Önceki Mesaj"
+
+#: ../partials/archives.php:7
+msgid "Next Post"
+msgstr "Sonraki Konu"
+
+#: ../partials/notfound.php:2
+msgid "No results were found for the requested page."
+msgstr "Sonuç istenen sayfayı bulundu."
+
+#: ../partials/postcontent.php:6 ../single-inspiration.php:81
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: ../partials/postfull.php:5 ../single-gallery.php:116 ../single-video.php:23
+msgid "likes"
+msgstr "Düşkünlük"
+
+#: ../partials/postfull.php:10
+msgid "Share this post:"
+msgstr "Bu yazıyı paylaşın:"
+
+#: ../partials/postpreview.php:10
+msgid "Tags: "
+msgstr "Etiketler:"
+
+#: ../search.php:41
+msgid "Search"
+msgstr "Arama"
+
+#: ../searchform.php:3
+msgid "Type here..."
+msgstr "Buraya yazın ..."
+
+#: ../searchform.php:4
+msgid "Go"
+msgstr "git"
+
+#: ../sidebar-mainmenu.php:31 ../sidebar-mainmenu.php:68
+msgid "Follow"
+msgstr "izleyin"
+
+#: ../single-gallery.php:17
+msgid "gallery CATEGORIES"
+msgstr "galeri KATEGORİLER"
+
+#: ../single-gallery.php:53
+msgid "Location"
+msgstr "Yer"
+
+#: ../single-gallery.php:121
+msgid "Share this gallery"
+msgstr "Bu galeriyi paylaş"
+
+#: ../single-inspiration.php:46 ../single-inspiration.php:53
+msgid "prev"
+msgstr "önceki"
+
+#: ../single-inspiration.php:46 ../single-inspiration.php:53
+msgid "next"
+msgstr "sonraki"
+
+#: ../single-inspiration.php:58 ../single-video.php:27
+msgid "Share this post"
+msgstr "Bu yazıyı paylaş"
+
+#: ../tag.php:9
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: ../tag.php:21 ../tag.php:45 ../template-blog-centered.php:55
+#: ../template-blog.php:72 ../template-blog.php:97
+#: ../templates/blog_gallery.php:49 ../templates/blog_quote.php:23
+#: ../templates/blog_standart.php:9 ../templates/blog_standart.php:34
+#: ../templates/blog_video.php:22
+msgid "comments"
+msgstr "comments"
+
+#: ../tag.php:21 ../tag.php:45 ../template-blog-centered.php:55
+#: ../template-blog.php:72 ../template-blog.php:97
+#: ../templates/blog_gallery.php:49 ../templates/blog_quote.php:23
+#: ../templates/blog_standart.php:9 ../templates/blog_standart.php:34
+#: ../templates/blog_video.php:22
+msgid "votes"
+msgstr "oy"
+
+#: ../template-about.php:93
+msgid "Video  Presentation"
+msgstr "Video Sunumu"
+
+#: ../template-contact-two.php:47 ../template-contact.php:43
+msgid "Your email was sent successfully. Thank you for your message!"
+msgstr "E-posta başarıyla gönderildi. Mesajınız için teşekkür ederiz!"
+
+#: ../template-contact-two.php:61 ../template-contact.php:55
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../template-contact-two.php:66 ../template-contact.php:62
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../template-contact-two.php:70 ../template-contact.php:65
+msgid "Send"
+msgstr "gönder"
+
+#: ../template-contact-two.php:80
+msgid "Our address"
+msgstr "bizim adresi"
+
+#: ../template-contact-two.php:88
+msgid "Contact details"
+msgstr "İletişim detayları"
+
+#: ../template-contact-two.php:97
+msgid "Phone number"
+msgstr "telefon numarası"
+
+#: ../template-contact.php:40
+msgid "contact form"
+msgstr "iletişim formu"
+
+#: ../template-contact.php:58
+msgid "How did you find me?"
+msgstr "Nasıl buldun beni?"
+
+#: ../template-contact.php:92
+msgid "Map"
+msgstr "harita"
+
+#: ../template-gallery-filter.php:34
+msgid "Filter"
+msgstr "filtre"
+
+#: ../template-gallery-filter.php:37
+msgid "show all"
+msgstr "tümünü göster"
+
+#: ../template-gallery-filter.php:97 ../template-gallery-pagination.php:90
+msgid "Show Images"
+msgstr "Resimleri Göster"
+
+#: ../template-home-3.php:79
+msgid "Subscribe"
+msgstr "Abone"
+
+#: ../template-home-3.php:80
+msgid "To Our Newsletter"
+msgstr "Bizim Bülteni'ne"
+
+#: ../templates/blog_image.php:6
+msgid "Image"
+msgstr "görüntü"
+
+#: ../templates/home_blogposts.php:3
+msgid "Recent Posts"
+msgstr "Yeni Mesajlar"
+
+#: ../templates/home_bottom_posts.php:2 ../templates/home_bottom_recent.php:21
+msgid "Recent Work"
+msgstr "Yeni Çalışma"
+
+#: ../templates/home_bottom_posts.php:23
+msgid "Let's Discuss"
+msgstr "En tartışın Let"
+
+#: ../templates/home_bottom_posts.php:45
+msgid "Most Voted Post"
+msgstr "Çoğu Mesaj oylandı"
+
+#: ../templates/home_gallery.php:3
+msgid "Recent Galleries"
+msgstr "Son Galeriler"
+
+#: ../woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr "Ürün Kodu:"
+
+#: ../woocommerce/single-product/meta.php:24
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategori:"
+msgstr[1] "Kategoriler:"
+
+#: ../woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+msgstr[1] "Tags:"
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "İlgili Ürünler"

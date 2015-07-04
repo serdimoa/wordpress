@@ -1,0 +1,1414 @@
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+    text-align: right;
+}
+
+.fl { float: right !important; }
+.fr { float: left !important; }
+.l { text-align: right; }
+.r { text-align: left; }
+
+p {
+    margin: 0 0 1em 0;
+    text-align: right;
+}
+hr {
+    margin: 16px 0;
+    float: none;
+    clear: both;
+    padding: 0;
+}
+.story ul,.defaultwp ul,.contentaboutbox ul,.story ol,.defaultwp ol,.contentaboutbox ol {
+    margin: 0 1.5em 1em 0;
+}
+.story pre,.defaultwp pre,.contentaboutbox pre,.story code,.defaultwp code,.contentaboutbox code {
+    margin: 10px 0px 10px 15px;
+}
+.story dl,.defaultwp dl,.contentaboutbox dl {
+    margin: 10px 0 10px 20px;
+}
+.story dl dt,.defaultwp dl dt,.contentaboutbox dl dt {
+    float: right;
+}
+.story dl dd,.defaultwp dl dd,.contentaboutbox dl dd {
+    margin-left: 0;
+    margin-right: 160px;
+}
+
+.story .alignleft,
+.defaultwp .alignleft,
+.contentaboutbox .alignleft,
+.story img.alignleft,
+.defaultwp img.alignleft,
+.contentaboutbox img.alignleft {
+    float: right;
+    margin-right: 0;
+    margin-left: 1em;
+}
+.story .alignright,
+.defaultwp .alignright,
+.contentaboutbox .alignright,
+.story img.alignright,
+.defaultwp img.alignright,
+.contentaboutbox img.alignright {
+    display: inline;
+    float: left;
+    margin-left: 0;
+    margin-right: 1em;
+}
+.flexslider .descr {
+    text-align: right;
+}
+.flexslider .descr h3 {
+    text-align: right;
+}
+blockquote {
+    padding: 10px 85px 10px 10px ;
+    background: #f8f6f6 url(css/images/quotes.png) top right no-repeat;
+}
+.homecustomcontent {
+    margin-left: 0;
+    margin-right: 20px;
+}
+.testimonialblog .itemblog .view {
+    float: right;
+}
+footer#footer-main p.copy {
+    float: right;
+}
+footer#footer-main .topbutton {
+    float: left;
+}
+section#homepage .flexslider .rightbox {
+    margin-right: 0;
+    margin-left: -242px;
+    left: 0;
+    right: auto;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li,
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li {
+    border-left:0;
+    border-right:4px solid rgba(255, 168, 0, 0.5);
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item a {
+    background: url(css/images/down.gif) 5% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li a:hover {
+    background: url(css/images/down.gif) 5% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item a {
+    background: url(css/images/down.gif) 5% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu li a:hover {
+    background: url(css/images/down.gif) 5% 50% no-repeat;
+}
+.flex-viewport {
+    direction: ltr;
+}
+header.page-title h2 {
+    margin-left: 100px;
+    margin-right: 0;
+}
+section#homepage .flexslider li figure figcaption .mainsliderdescription {
+    text-align: right;
+}
+section#homepage .flexslider li figure figcaption .mainsliderdescription .sliderlinkmore {
+    float: right;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul {
+    right: 100%;
+    left: auto;
+}
+section#homepage .flexslider .leftbox {
+    margin-left: 0;
+    margin-right: -248px;
+    right: 0;
+    left: auto;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader h1.image {
+    font-size:0;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a {
+    font-size:0;
+    margin-right: 0;
+    margin-left: 4px;
+    float: right;
+    display: inline-block;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.jspArrow {
+    float: left;
+    margin: 0;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social .jspPane {
+    direction: ltr;
+}
+section.singlepage .leftmenubox header#leftheader .social .jspPane {
+    direction: ltr;
+}
+section.singlepage .leftmenubox header#leftheader .social a.jspArrow {
+    float: left;
+    margin: 0;
+}
+
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li {
+    padding-left: 0;
+    padding-right: 10px;
+}
+section#homepage .flexslider li figure figcaption {
+    left: auto;
+    right:0;
+    text-align: right;
+}
+section#homepage .flexslider li figure figcaption .mainslidertitle {
+    left: auto;
+    right:-100%;
+}
+section#homepage .flexslider li.flex-active-slide figure:hover figcaption .mainslidertitle {
+    left: auto;
+    right:20px;
+
+}
+.home-bottom .aboutmainbox {
+    float: right;
+}
+.home-bottom .aboutmainbox .scrollbox p {
+    padding-right: 0;
+    padding-left: 5px;
+    padding-right: 15px;
+}
+.gallerygrid #galcontainer .element .titlegalleryfilter .titleitem, .gallerygrid #galcontainerhome .element .titlegalleryfilter .titleitem {
+    margin-right: 46px;
+    margin-left: 0;
+}
+.home-bottom .threemainboxes {
+    float: right;
+}
+.home-bottom .threemainboxes .recentwork {
+    float: right;
+    margin-right: 18px;
+    margin-left: 35px;
+}
+.home-bottom .threemainboxes .letsdiscus {
+    margin-right: 0;
+    margin-left: 35px;
+    float: right;
+}
+.home-bottom .threemainboxes .mostvoted {
+    float: right;
+}
+.blogpost.twocol .itemblog {
+    margin-right: 0;
+    margin-left: 1%;
+    float: right;
+}
+.blogpost.threecol .itemblog {
+    margin-right: 0;
+    margin-left: 1%;
+    float: right;
+}
+.blogpost.fullwidth .itemblog {
+    margin-right: 0;
+    margin-left: 1%;
+}
+.ale-team .socialbut .fbbut a,
+.ale-team .socialbut .twibut a,
+.ale-team .socialbut .gbut a {
+    font-size:0;
+    margin-right: 0;
+    margin-left: 4px;
+}
+.blogpost {
+    padding-left: 0;
+    padding-right: 2px;
+}
+.blogpost .itemblog {
+    float: right;
+    margin-right: 0;
+    margin-left: 3%;
+}
+.isotope .isotope-item {
+    -webkit-transition-property: right, top, -webkit-transform, opacity;
+    -moz-transition-property: right, top, -moz-transform, opacity;
+    -ms-transition-property: right, top, -ms-transform, opacity;
+    -o-transition-property: right, top, -o-transform, opacity;
+    transition-property: right, top, transform, opacity;
+}
+.blogpost .itemblog figure.imageformat figcaption span {
+    left: auto;
+    right:0;
+}
+.blogpost .itemblog .blockqoutepost {
+    padding-left: 0;
+    padding-right: 60px;
+}
+.blogpost .itemblog figure.galleryformat figcaption span {
+    left: auto;
+    right:0;
+}
+.blogpost .itemblog .gallerypost a.flex-prev {
+    font-size:0;
+}
+.blogpost .itemblog .gallerypost a.flex-next {
+    font-size:0;
+}
+.blogpost .itemblog .itemboxwhite .bottomblogitem .leftdatablog {
+    float: right;
+}
+.blogpost .itemblog .itemboxwhite .bottomblogitem .readmoreblog {
+    float: left;
+}
+.blogpost .itemblog .itemboxwhite .theexcerpt p {
+    padding: 0px 10px 20px 6px;
+}
+.blogpost .itemblog .itemboxwhite .titleline .title h2 {
+    margin-right: 0;
+    margin-left: 8px;
+}
+.blogpost .itemblog .itemboxwhite .titleline .datebox {
+    float: right;
+    background: url(css/images/date.png) left repeat-y;
+}
+.blogpost .itemblog .itemboxwhite .titleline .title {
+    margin-left: 0;
+    margin-right: 85px;
+}
+section.singlepage .leftside {
+    float: right;
+}
+section.singlepage .rightsidebar {
+    float: left;
+}
+section.singlepage .centerside .margincontentbox {
+    margin-right: 0;
+    margin-left: 20px;
+}
+section.singlepage .rightside .margincontentbox {
+    margin-left: 0;
+    margin-right: 20px;
+}
+section.singlepage .rightside section.full section.commentform section.comments {
+    float: right;
+}
+section.singlepage .rightside section.full section.commentform section.respond {
+    float: left;
+}
+section.singlepage .rightside section.full section.commentform section.respond .area2 .commenttextarea {
+    float: right;
+}
+section.singlepage .rightside section.full section.commentform section.respond .area2 .commenttextarea textarea {
+    padding: 4px 10px 4px 5px;
+}
+section.singlepage .rightside section.full section.commentform section.respond .area2 .buttoncomment {
+    float: left;
+}
+section.singlepage .rightside section.full section.commentform section.respond .area1 input {
+    padding: 0px 10px 0px 5px;
+}
+section.singlepage .rightside .soclikesline .lefticons {
+    float: right;
+}
+section.singlepage .rightside .soclikesline .lefticons a.prev {
+    float: right;
+}
+section.singlepage .rightside .soclikesline .lefticons a.next {
+    float: right;
+}
+section.singlepage .rightside .soclikesline .righticons {
+    float: left;
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a {
+    font-size:0;
+    margin-right: 0;
+    margin-left: 4px;
+    float: right;
+}
+section.singlepage .rightside .soclikesline .couintbox p.post-like {
+    margin-left: 0;
+    margin-right: 6px;
+}
+section.singlepage .rightside .soclikesline .couintbox p.post-like .like {
+    float: right;
+}
+section.singlepage .rightside .soclikesline .couintbox p.post-like span.count {
+    left: auto;
+    right: 0;
+}
+section.singlepage .rightside header.preview .postslider .flex-direction-nav a.flex-prev {
+    font-size:0;
+    left: 6px;
+}
+section.singlepage .rightside header.preview .postslider .flex-direction-nav a.flex-next {
+    text-indent:9999px;
+    right: 6px;
+}
+section.singlepage .rightside header.preview .titleline .title {
+    margin-left: 0;
+    margin-right: 83px;
+}
+section.singlepage .rightside header.preview .titleline .datebox {
+    float: right;
+    background: url(css/images/date.png) left repeat-y;
+}
+section.singlepage .rightside .postnavigation .categoriesbox {
+    float: right;
+    margin-right: 1%;
+}
+section.singlepage .rightside section.full section.commentform section.comments .scrollbox ol.commentlist {
+    margin-right: 20px;
+}
+section.singlepage .rightside .postnavigation .categoriesbox ul.categorieslist {
+    margin-left:0;
+    margin-right: 25px;
+}
+section.singlepage .rightside .postnavigation .categoriesbox ul.categorieslist li {
+    margin-right: 0;
+    margin-left: 9px;
+}
+section.singlepage .rightside .postnavigation .categoriesbox .title {
+    margin: 25px 25px 13px 0;
+}
+section.singlepage .rightside .postnavigation .reachsinglbox {
+    float: left;
+    text-align: left;
+}
+section.singlepage .rightside .postnavigation .reachsinglbox .title {
+    margin: 25px 0 13px 25px;
+}
+section.singlepage .rightside .postnavigation .reachsinglbox .searchform {
+    margin-right: 0;
+    margin-left: 25px;
+}
+section.singlepage .rightside .postnavigation .reachsinglbox .searchform input[type="submit"] {
+    margin-left: 0;
+    margin-right: 6px;
+}
+section.singlepage .leftmenubox header#leftheader h1.customlogo {
+    left: auto;
+    right:0;
+}
+section.singlepage .leftmenubox header#leftheader h1.image {
+    font-size:0;
+}
+section.singlepage .leftmenubox header#leftheader .social a {
+    font-size:0;
+    margin-right: 0;
+    margin-left: 4px;
+    float: right;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul {
+    left: auto;
+    right: 100%;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li {
+    padding-left: 0;
+    padding-right: 10px;
+}
+.rightblogpagination {
+    float: left;
+}
+#archives .postprevtop {
+    float: left;
+    margin-right: 0;
+    margin-left: 4px;
+}
+#archives .ale-archives {
+    margin-left: 0;
+    margin-right: 3px;
+    float: right;
+}
+#archives .ale-archives h4.a {
+    margin-right: 0;
+    margin-left: 10px;
+}
+#archives .ale-archives .year {
+    margin-right: 0;
+    margin-left: 17px;
+}
+#archives .ale-archives .year .up {
+    right: auto;
+    left:0;
+    font-size:0;
+}
+#archives .ale-archives .year .down {
+    left: auto;
+    right: 0;
+    font-size:0;
+}
+#archives .ale-archives .months .year-months span {
+    margin-right: 0;
+    margin-left: 6px;
+}
+#archives .ale-archives .months .year-months a {
+    margin-right: 0;
+    margin-left: 6px;
+}
+.widget_search input[type="submit"] {
+    margin-left: 0;
+    margin-right: 6px;
+}
+.widget_tag_cloud .tagcloud {
+    text-align: right;
+}
+.widget_tag_cloud .tagcloud a {
+    margin-right: 0;
+    margin-left: 3px;
+}
+.aletheme-flickr ul.aletheme-flickr-widget li:nth-child(3n+3) {
+    margin-right: 0;
+    margin-left: 0;
+}
+.aletheme-flickr ul.aletheme-flickr-widget li {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.widget_nav_menu ul ul,
+.widget_categories ul ul,
+.widget_archive ul ul,
+.widget_meta ul ul,
+.widget_pages ul ul,
+.widget_recent_comments ul ul,
+.widget_recent_entries ul ul,
+.widget_product_categories ul ul {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.widget_nav_menu ul li a,
+.widget_categories ul li a,
+.widget_archive ul li a,
+.widget_meta ul li a,
+.widget_pages ul li a,
+.widget_recent_comments ul li a,
+.widget_recent_entries ul li a,
+.widget_product_categories ul li a {
+    padding: 6px 5px 6px 0;
+}
+.widget_recent_comments ul li {
+    padding: 6px 5px 6px 0;
+}
+.widget_calendar #wp-calendar tfoot #next {
+    text-align: left;
+}
+.widget_calendar #wp-calendar tfoot #prev {
+    text-align: right;
+}
+.boxwithgalleries .gallbox {
+    float: right;
+    margin-right: 0;
+    margin-left: 3%;
+}
+.boxwithgalleries .gallbox figure figcaption {
+    left: auto;
+    right: 0;
+}
+.boxwithgalleries .gallbox figure figcaption span.category {
+    left:auto;
+    right: 0;
+}
+.galleysingle .thetitlegallery {
+    padding-left: 0;
+    padding-right: 5px;
+}
+.galleysingle .thetitlegallery .goback {
+    margin-right: 0;
+    margin-left: 10px;
+    float: left;
+}
+.galleysingle .sharegallery {
+    text-align: left;
+}
+.galleysingle .sharegallery .righticonsbuttons {
+    font-size:0;
+}
+.galleysingle .sharegallery .righticonsbuttons a {
+    font-size:0;
+    margin-right: 0;
+    margin-left: 4px;
+    float: right;
+}
+.galleysingle .sharegallery .righticonsbuttons a.fbicon {
+    font-size:0;
+}
+.galleysingle .sharegallery .righticonsbuttons a.twiicon {
+    font-size:0;
+}
+.galleysingle .sharegallery .righticonsbuttons a.gooplus {
+    font-size:0;
+}
+.galleysingle .gallerybox .galleryslider .flex-direction-nav a.flex-prev {
+    font-size:0;
+    left:0;
+}
+.galleysingle .gallerybox .galleryslider .flex-direction-nav a.flex-next {
+    font-size:0;
+    right:0;
+}
+.galleysingle .gallerybox .carousel .flex-prev {
+    font-size:0;
+    left: 0;
+}
+.galleysingle .gallerybox .carousel .flex-next {
+    font-size:0;
+    right: 0;
+}
+.inspirationbox blockquote.inspiration {
+    float: left;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.inspirationbox .topinspiration #inspirationslider a.left {
+    left: auto;
+    right:0;
+    font-size:0;
+}
+.inspirationbox .topinspiration #inspirationslider a.right {
+    right: auto;
+    left:0;
+    font-size:0;
+}
+.inspirationbox .topinspiration #inspirationslider .items div {
+    float: right;
+}
+.toppagination {
+    float: left;
+}
+.toppagination .pagpages {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+    direction: ltr;
+}
+.toppagination .paglinks {
+    float: right;
+}
+.inspirationblog .itemblog {
+    margin: 0;
+}
+.testimonialblog .itemblog {
+    margin: 0!important;
+}
+.testimonialblog .itemblog .notumbtestimonial {
+    float: none;
+}
+.inspirationblog .itemblog .notumbinspiration {
+    float: right;
+}
+.inspirationblog .itemblog .notumbinspiration figcaption {
+    left: auto;
+    right:0;
+}
+.inspirationblog .itemblog .view {
+    float: right;
+}
+.inspirationblog .itemblog .view .mask,
+.inspirationblog .itemblog .view .content {
+    left: auto;
+    right: 0;
+}
+.aboutpage .videoaboutbox .videotitle .text {
+    float: right;
+    margin-left: 0;
+    margin-right: 18px;
+}
+.aboutpage .videoaboutbox .videotitle .plus {
+    float: left;
+    margin-right: 0;
+    margin-left: 12px;
+}
+.aboutpage .contentaboutbox .leftboxabout {
+    float: right;
+}
+.aboutpage .contentaboutbox .rightboxabout {
+    float: left;
+}
+.aboutpage .contentaboutbox .aboutslider .flex-prev {
+    left: 0;
+    font-size:0;
+}
+.aboutpage .contentaboutbox .aboutslider .flex-next {
+    right: 0;
+    font-size:0;
+}
+header.page-title {
+    padding-left: 0;
+    padding-right: 10px;
+}
+header.page-title .goback {
+    margin-right: 0;
+    margin-left: 10px;
+    float: left;
+}
+.contactpage .leftcontactbox {
+    float: right;
+}
+.contactpage .leftcontactbox .formbox .commenttextarea {
+    margin-left: 0;
+    margin-right: -8px;
+    float: right;
+}
+.contactpage .leftcontactbox .formbox .commenttextarea textarea {
+    padding: 4px 10px 4px 5px;
+}
+.contactpage .leftcontactbox .formbox .buttoncomment {
+    margin-right: 0;
+    margin-left: -10px;
+    float: left;
+}
+.contactpage .leftcontactbox .formbox input[type="text"],
+.contactpage .leftcontactbox .formbox input[type="email"] {
+    padding: 0px 10px 0px 5px;
+}
+.contactpage .rightcontactbox {
+    float: left;
+}
+.pressarchive {
+    margin-left: 0;
+    margin-right: 2px;
+}
+.pressarchive .pressstyle {
+    margin-right: 0;
+    margin-left: 1%;
+    float: right;
+}
+.pressarchive .pressstyle .image {
+    float: right;
+}
+.pressarchive .pressstyle .image figure figcaption span {
+    left: auto;
+    right: 0;
+}
+.pressarchive .pressstyle .rightbox {
+    float: right;
+}
+.pressarchive .pressstyle .rightbox .excerptpress {
+    margin: 10px 20px 10px 10px;
+}
+.pressarchive .pressstyle .rightbox .titleline .title h2 {
+    margin-right: 0;
+    margin-left: 8px;
+}
+.pressarchive .pressstyle .rightbox .titleline .datebox {
+    float: right;
+    background: url(css/images/date.png) left repeat-y;
+}
+.pressarchive .pressstyle .rightbox .titleline .title {
+    margin-left: 0;
+    margin-right: 85px;
+}
+.aletheme-mostcommented-widget li.mostcommentedpost figure figcaption {
+    left: auto;
+    right: 0;
+}
+section.defaultwp #comments li.comment .comment-author,
+section.defaultwp #comments li.pingback .comment-author,
+section.defaultwp #comments li.trackback .comment-author {
+    text-align: right;
+}
+section.defaultwp #comments li.comment .comment-author cite.fn,
+section.defaultwp #comments li.pingback .comment-author cite.fn,
+section.defaultwp #comments li.trackback .comment-author cite.fn {
+    padding-left: 0;
+    padding-right: 6px;
+}
+section.defaultwp #comments li.comment .comment-meta,
+section.defaultwp #comments li.pingback .comment-meta,
+section.defaultwp #comments li.trackback .comment-meta {
+    text-align: left;
+}
+.shopslider:hover .flex-direction-nav a.flex-prev {
+    margin-left: 0;
+    margin-right: 0;
+}
+.shopslider:hover .flex-direction-nav a.flex-next {
+    margin-right: 0;
+    margin-left: 0;
+}
+.shopslider .flex-direction-nav a.flex-prev {
+    left: 0;
+    margin-left: 0;
+    margin-right: -75px;
+}
+.shopslider .flex-direction-nav a.flex-next {
+    right: 0;
+    margin-right: 0;
+    margin-left: -75px;
+}
+.story .gallery-columns-3 dl.gallery-item {
+    float: right;
+}
+.story .gallery-columns-2 dl.gallery-item {
+    float: right;
+}
+.story .gallery-columns-4 dl.gallery-item {
+    float: right;
+}
+.story .gallery-columns-5 dl.gallery-item {
+    float: right;
+}
+.story .gallery-columns-6 dl.gallery-item {
+    float: right;
+}
+.story .gallery-columns-7 dl.gallery-item {
+    float: right;
+}
+.story .gallery-columns-8 dl.gallery-item,
+.story .gallery-columns-9 dl.gallery-item,
+.story .gallery-columns-10 dl.gallery-item {
+    float: right;
+}
+.gallerygrid .filtertitle {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.gallerygrid #filters li {
+    margin-right: 0;
+    margin-left: 9px;
+}
+.gallerygrid .recentgaleriesitems .itemblog {
+    margin-right: 1.6%;
+    margin-left: 1.6%;
+    float: right;
+}
+.gallerygrid .recentgaleriesitems .element:nth-child(4n+4) {
+    margin-right: 0;
+    margin-left: 0;
+}
+.gallerygrid .recentgaleriesitems .element {
+    margin-right: 0;
+    margin-left: 1.33333%;
+}
+.gallerygrid #galcontainer .element,
+.gallerygrid #galcontainerhome .element {
+    float: right;
+}
+.gallerygrid #galcontainer .element .titlegalleryfilter .lefticon,
+.gallerygrid #galcontainerhome .element .titlegalleryfilter .lefticon {
+    float: right;
+}
+.gallerythree #galcontainer .element figure {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.gallerytwo #galcontainer .element figure {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.galleryfour #galcontainer .element figure {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.nivoSlider:hover .nivo-caption .mainslidertitle {
+    left: auto;
+    right: 20px;
+}
+.nivoSlider img {
+    left: auto;
+    right: 0;
+}
+.nivo-caption {
+    left: auto;
+    right: 0;
+}
+.nivo-caption .mainslidertitle {
+    left: auto;
+    right: -100%;
+}
+.nivo-caption .mainsliderdescription {
+    left: auto;
+    right: 0;
+}
+.nivo-directionNav a {
+    font-size:0;
+}
+.nivo-prevNav {
+    left: auto;
+    right: 0;
+}
+.nivo-nextNav {
+    right: auto;
+    left: 0;
+}
+.ourteambox .itemteam {
+    float: right;
+}
+.ourteambox .itemteam figure figcaption {
+    left: auto;
+    right: -100%;
+}
+.ourteambox .itemteam figure:hover figcaption {
+    right: 0;
+}
+.galleysingle .thetitlegallery h2 {
+    margin-right: 0;
+    margin-left: 100px;
+}
+.abouttwo .abouttwoleft {
+    float: right;
+}
+.abouttwo .abouttworight {
+    float: right;
+}
+.threeboxescontact .boxcontwo {
+    float: right;
+}
+.threeboxescontact .boxcontwo .adressbox {
+    padding-left: 0;
+    padding-right: 21px;
+    background: url(css/images/icons/adressic.png) top right no-repeat;
+    margin-left: 0;
+    margin-right: 5px;
+}
+.threeboxescontact .boxcontwo .phoneconsbox {
+    padding-left: 0;
+    padding-right: 21px;
+    background: url(css/images/icons/phoneic.png) top right no-repeat;
+    margin-left: 0;
+    margin-right: 5px;
+}
+.threeboxescontact .boxcontwo .contactdetails {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.threeboxescontact .boxcontwo .contactdetails span.pmico {
+    padding-left: 0;
+    padding-right: 24px;
+    background: url(css/images/icons/pmic.png) right 50% no-repeat;
+}
+.threeboxescontact .boxcontwo .contactdetails span.twiico {
+    padding-left: 0;
+    padding-right: 24px;
+    background: url(css/images/icons/conttwiic.png) right 50% no-repeat;
+}
+.contactformtwo .formbox .buttoncomment {
+    text-align: left;
+}
+.contactformtwo .formbox .buttoncomment input.submit {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.contactformtwo .formbox textarea {
+    padding: 4px 10px 4px 5px;
+}
+.contactformtwo .formbox .nametwo,
+.contactformtwo .formbox .emailtwo,
+.contactformtwo .formbox .phonetwo {
+    float: right;
+}
+.contactformtwo .formbox .nametwo input[type="text"],
+.contactformtwo .formbox .emailtwo input[type="text"],
+.contactformtwo .formbox .phonetwo input[type="text"],
+.contactformtwo .formbox .nametwo input[type="email"],
+.contactformtwo .formbox .emailtwo input[type="email"],
+.contactformtwo .formbox .phonetwo input[type="email"] {
+    padding: 0 10px 0 5px;
+}
+.aboutthreeteam .itemteam:nth-child(3) {
+    margin-right: 0;
+    margin-left: 0;
+}
+.aboutthreeteam .itemteam {
+    margin-right: 0;
+    margin-left: 2%;
+}
+.aboutthreeteam .itemteam .teamphotobox .masktemphoto a {
+    font-size:0;
+}
+.pieboxes .pieitem {
+    float: right;
+}
+.aboutthree .abouttoggle .itemtoggle .titletog .iconplu {
+    float: right;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.aboutthree .abouttoggle .itemtoggle .titlecontent {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.centeredpost .newdate .datebox:before {
+    left: auto;
+    right: -50px;
+}
+.centeredpost .newdate .datebox:after {
+    right: auto;
+    left: -50px;
+}
+.ale-slider-slides a.flex-prev {
+    left: 0;
+    font-size:0;
+}
+.ale-slider-slides a.flex-next {
+    right: 0;
+    font-size:0;
+}
+.ale-one-half,
+.ale-one-third,
+.ale-two-third,
+.ale-three-fourth,
+.ale-one-fourth,
+.ale-one-fifth,
+.ale-two-fifth,
+.ale-three-fifth,
+.ale-four-fifth,
+.ale-one-sixth,
+.ale-five-sixth {
+    margin-right: 0;
+    margin-left: 4%;
+    float: right;
+}
+.ale-column-last {
+    margin-right: 0!important;
+    margin-left: 0!important;
+    clear: left;
+}
+a.ale-button,
+a.ale-button:visited {
+    margin: 0 0 1.5em 0.1em!important;
+}
+.ale-tabs.ui-tabs .ui-tabs-hide {
+    position: absolute;
+    left: auto;
+    right: -10000px;
+}
+.ale-tabs .ale-nav li {
+    float: right;
+}
+.ale-toggle .ale-toggle-title {
+    padding: 10px 30px 10px 10px;
+}
+.ale-toggle span.ui-icon {
+    left: auto;
+    right: 10px;
+}
+.ale-divider span.textleft {
+    float: left;
+}
+.ale-divider span.textright {
+    float: right;
+}
+.ale-testimonial .lefttestimonialpart {
+    float: right;
+}
+.ale-testimonial .righttestimonialpart {
+    margin-left: 15px;
+    margin-right: 145px;
+}
+@media (max-width: 800px) {
+    .ale-one-half,
+    .ale-one-third,
+    .ale-two-third,
+    .ale-three-fourth,
+    .ale-one-fourth,
+    .ale-one-fifth,
+    .ale-two-fifth,
+    .ale-three-fifth,
+    .ale-four-fifth,
+    .ale-one-sixth,
+    .ale-five-sixth {
+        margin-right: 0;
+        margin-left: 2%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1294px) {
+    .inspirationblog .itemblog .view-effect h2 {
+        margin-bottom: 20px;
+    }
+    .inspirationblog .itemblog .notumbinspiration figcaption h2 {
+        margin-bottom: 20px;
+    }
+    .home-bottom .aboutmainbox {
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 20px;
+    }
+    .home-bottom .aboutmainbox .scrollbox {
+        margin: 0 auto;
+    }
+    .home-bottom .threemainboxes {
+        margin: 0 auto;
+        float: none;
+    }
+    .home-bottom .threemainboxes .recentwork {
+        margin: 0;
+        margin-left: 4.9999%;
+    }
+    .home-bottom .threemainboxes .recentwork .whitebox .category {
+        margin-bottom: 10px;
+    }
+    .home-bottom .threemainboxes .letsdiscus {
+        margin: 0;
+    }
+    .home-bottom .threemainboxes .letsdiscus .whitebox .category {
+        margin-bottom: 10px;
+    }
+    .home-bottom .threemainboxes .mostvoted {
+        margin: 0;
+        margin-right: 4.9999%;
+    }
+    .home-bottom .threemainboxes .mostvoted .whitebox .category {
+        margin-bottom: 10px;
+    }
+}
+
+
+@media (max-width: 1120px) {
+    section#homepage .flexslider {
+        margin-bottom: 60px;
+    }
+    section#homepage .flexslider .rightbox {
+        margin: 0;
+        padding: 0;
+        left: 0;
+        top: auto;
+        right: 0;
+        bottom: 0;
+        margin-bottom: -60px;
+    }
+    section#homepage .flexslider .rightbox .rightothermenu {
+        margin: 0;
+    }
+    section#homepage .flexslider .rightbox .rightothermenu .boxinrightside {
+        margin: 0;
+    }
+    section#homepage .flexslider .rightbox .rightothermenu .boxinrightside:first-child {
+        margin: 0;
+        margin-left: 4.9999%;
+    }
+    section#homepage .flexslider .rightbox .rightothermenu .boxinrightside:last-child {
+        margin: 0;
+        margin-right: 4.9999%;
+    }
+    section#homepage .flexslider .rightbox .rightothermenu .boxinrightside .inforight .rightboxtitle {
+        padding-bottom: 4px;
+        margin-bottom: 4px;
+    }
+    section#homepage .flexslider .rightbox .rightothermenu .boxinrightside {
+        float: right;
+    }
+    section#homepage .flexslider {
+        margin-top: 140px;
+    }
+    section#homepage .flexslider .leftbox {
+        margin: 0;
+        padding: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        margin-top: -140px;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox {
+        padding-top: 20px;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader {
+        padding: 0;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader .logo {
+        padding-bottom: 25px;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav {
+        margin: 0;
+        padding: 0;
+    }
+
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li ul {
+        top: 100%;
+        left: auto;
+        right: 0;
+        text-align: right;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li ul li ul {
+        left: 100%;
+        top: auto;
+        right: 0;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social {
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 980px) {
+    section.singlepage .rightside .margincontentbox {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    section.singlepage .leftside {
+        float: none;
+        margin: 0 auto;
+    }
+    section.singlepage .rightside {
+        float: none;
+        margin: 0 auto;
+    }
+    section.singlepage .rightsidebar {
+        margin-top: 20px;
+    }
+    section.singlepage .centerside {
+        margin: 0;
+        margin-left: 248px;
+    }
+
+    section.singlepage .leftmenubox header#leftheader {
+        padding: 0;
+        margin-bottom: 0;
+    }
+    section.singlepage .leftmenubox header#leftheader .logo {
+        float: right;
+    }
+    section.singlepage .leftmenubox header#leftheader h1.image {
+        top: 10px;
+        left: auto;
+        right: 10px;
+    }
+    section.singlepage .leftmenubox header#leftheader h1.customlogo {
+        top: 10px;
+        left: auto;
+        right: 10px;
+    }
+    section.singlepage .leftmenubox header#leftheader nav#leftnav {
+        float: left;
+        margin: 0;
+        margin-top: 15px;
+    }
+    section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu li {
+        float: right;
+        width: auto;
+        margin-right: 0;
+        margin-left: 20px;
+    }
+    section.singlepage .leftmenubox header#leftheader .social {
+        margin-bottom: 0px;
+        margin-top: 20px;
+        float: left;
+    }
+    section.singlepage .leftmenubox header#leftheader .social .followtitle {
+        text-align: left;
+        margin-right: 0;
+        margin-left: 15px;
+    }
+    section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul {
+        top: 100%;
+        left: auto;
+        right: 0;
+    }
+    section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li ul {
+        top: 0;
+        left: auto;
+        right: 100%;
+    }
+    .aletheme-mostcommented-widget ul li {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .aletheme-flickr ul.aletheme-flickr-widget li:nth-child(3n+3) {
+        margin-right: 0;
+        margin-left: 5px;
+    }
+    .aletheme-flickr ul.aletheme-flickr-widget li {
+        float: none;
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    section.singlepage .rightside .postnavigation .categoriesbox {
+        float: none;
+        margin: 0 auto;
+    }
+    section.singlepage .rightside .postnavigation .reachsinglbox {
+        float: none;
+        margin: 0 auto;
+        clear: both;
+        margin-top: 25px;
+    }
+    section.singlepage .rightside .postnavigation .reachsinglbox .title {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    section.singlepage .rightside .postnavigation .reachsinglbox .searchform {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .galleysingle {
+        margin: 0 auto;
+    }
+    section.singlepage .rightside .postnavigation .categoriesbox ul.categorieslist {
+        margin-left: 15px;
+        float: none;
+        margin-right: 15px;
+    }
+    .galleysingle .gallerycontent p {
+        font-size: 13px;
+        line-height: 20px;
+        text-align: center;
+    }
+}
+@media (max-width: 960px) {
+    .gallerygrid .recentgaleriesitems .itemblog {
+        margin-right: 0;
+        margin-left: 2%;
+    }
+    .gallerygrid #galcontainer .element,
+    .gallerygrid #galcontainerhome .element {
+        margin-right: 0;
+        margin-left: 2%;
+    }
+}
+@media (max-width: 767px) {
+    .pieboxes .pieitem {
+        float: none;
+    }
+    .rightblogpagination {
+        float: none;
+        margin-top: 20px;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#mobilenav {
+        margin: 0 auto;
+    }
+    section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#mobilenav select {
+        padding: 5px;
+        margin-top: 5px;
+    }
+    section.singlepage .leftmenubox header#leftheader nav#mobilenav {
+        margin: 0 auto;
+    }
+    section.singlepage .leftmenubox header#leftheader nav#mobilenav select {
+        padding: 5px;
+        margin-top: 5px;
+    }
+    section.singlepage .leftmenubox header#leftheader .logo {
+        float: none;
+        margin: 0 auto;
+    }
+    section.singlepage .leftmenubox header#leftheader .social {
+        float: none;
+        margin: 0 auto;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    section.singlepage .leftmenubox header#leftheader .social .followtitle {
+        margin-right: 0;
+        margin-left: 11px;
+    }
+    .aboutpage .quotebox figure figcaption p {
+        padding: 10px;
+    }
+    .boxwithgalleries {
+        margin: 0 auto;
+    }
+    .contactpage .leftcontactbox {
+        float: none;
+    }
+    .contactpage .rightcontactbox {
+        float: none;
+    }
+    #archives .ale-archives {
+        float: none;
+    }
+    #archives .postprevtop {
+        float: none;
+        margin-top: 20px;
+    }
+    section.singlepage .rightside section.full section.commentform section.comments {
+        float: none;
+    }
+    section.singlepage .rightside section.full section.commentform section.respond {
+        float: none;
+    }
+}
+@media (max-width: 640px) {
+    section.singlepage .centerside .margincontentbox {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    section.singlepage .centerside {
+        margin: 0 auto;
+    }
+    .aletheme-tweets-widget {
+        margin: 0 auto;
+    }
+    .woocommerce ul.products li.product,
+    .woocommerce-page ul.products li.product {
+        float: none!important;
+        margin-right: 0!important;
+        margin-left: 0!important;
+    }
+}
+@media (max-width: 480px) {
+    .gallerygrid #galcontainer .element,
+    .gallerygrid #galcontainerhome .element {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .abouttwo .abouttwoleft {
+        float: none;
+    }
+    .abouttwo .abouttworight {
+        float: none;
+        margin-bottom: 15px;
+    }
+    .ourteambox .itemteam {
+        float: none;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    .threeboxescontact .boxcontwo {
+        float: none;
+        margin-bottom: 35px;
+    }
+    .gallerygrid .recentgaleriesitems .itemblog {
+        margin-right: 0;
+        margin-left: 2%;
+    }
+    section#homepage .flexslider {
+        margin-bottom: 10px;
+    }
+    .home-bottom .threemainboxes .recentwork {
+        float: none;
+        margin: 0;
+    }
+    .home-bottom .threemainboxes .letsdiscus {
+        float: none;
+        margin: 0;
+    }
+    .home-bottom .threemainboxes .mostvoted {
+        float: none;
+        margin: 0;
+    }
+    .home-bottom .othermenuhomemobile .inforight {
+        margin: 0 auto;
+        padding: 10px 0px 10px 0px;
+        margin-bottom: 15px;
+    }
+    .home-bottom .othermenuhomemobile .inforight .rightboxtitle {
+        margin-bottom: 5px;
+    }
+    .aboutpage .contentaboutbox .leftboxabout {
+        float: none;
+    }
+    .aboutpage .contentaboutbox .rightboxabout {
+        float: none;
+    }
+}
+@media (max-width: 380px) {
+    .gallerygrid .recentgaleriesitems .itemblog {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}

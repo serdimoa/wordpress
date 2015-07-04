@@ -1,0 +1,996 @@
+/* COLORS & FONTS
+********************/
+/* Body
+*******************************/
+body .topline #rel-top {
+  background-color: #ffa800;
+}
+.woocommerce a {
+  color: #ffa800;
+}
+input[type="text"],
+input[type="email"],
+input[type="url"] {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+input[type="submit"],
+input[type="button"] {
+  background: #ffa800;
+}
+.testimonialblog .itemblog .notumbtestimonial figcaption {
+  background: #ffa800;
+}
+.testimonialblog .itemblog .view a.info {
+  background: #ffa800;
+}
+.testimonialblog .itemblog .view-first .mask {
+  background-color: rgba(255, 168, 0, 0.5);
+}
+section#homepage .flexslider .rightbox .rightothermenu .boxinrightside .inforight {
+  background: #ffa800;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader h1.image {
+  background: #ffa800;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a {
+  background: rgba(255, 168, 0, 0.5);
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.pinticon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/pin.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.pinticon:hover {
+  background: #ffa800 url(../images/social/pin.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.youtubeicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/tube.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.youtubeicon:hover {
+  background: #ffa800 url(../images/social/tube.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.fbicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.fbicon:hover {
+  background: #ffa800 url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.twiicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.twiicon:hover {
+  background: #ffa800 url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.gogicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.gogicon:hover {
+  background: #ffa800 url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.vimicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/vim.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.vimicon:hover {
+  background: #ffa800 url(../images/social/vim.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.flickricon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/flikr.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.flickricon:hover {
+  background: #ffa800 url(../images/social/flikr.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.driicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/dri.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.driicon:hover {
+  background: #ffa800 url(../images/social/dri.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.instaicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/insta.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.instaicon:hover {
+  background: #ffa800 url(../images/social/insta.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.liinicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/link.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.liinicon:hover {
+  background: #ffa800 url(../images/social/link.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.picaicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/pica.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.picaicon:hover {
+  background: #ffa800 url(../images/social/pica.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.rssicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/rss.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader .social a.rssicon:hover {
+  background: #ffa800 url(../images/social/rss.png) 50% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li {
+  border-left: 4px solid rgba(255, 168, 0, 0.5);
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu a:hover {
+  color: #ffa800;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item a {
+  color: #ffa800;
+  background: url(../images/down.gif) 95% 50% no-repeat;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item ul li a:hover {
+  color: #ffa800;
+}
+section#homepage .flexslider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li a:hover {
+  background: url(../images/down.gif) 95% 50% no-repeat;
+}
+section#homepage .flexslider li figure figcaption .mainsliderdescription .sliderlinkmore {
+  background: #ffa800;
+}
+.home-bottom .threemainboxes .recentwork figure figcaption:hover a {
+  background: rgba(255, 168, 0, 0.8);
+}
+.home-bottom .threemainboxes .recentwork figure figcaption:hover a:hover {
+  background: rgba(255, 168, 0, 0.8) url(../images/readmore.png) 50% 50% no-repeat;
+}
+.home-bottom .threemainboxes .letsdiscus figure figcaption:hover a {
+  background: rgba(255, 168, 0, 0.8);
+}
+.home-bottom .threemainboxes .letsdiscus figure figcaption:hover a:hover {
+  background: rgba(255, 168, 0, 0.8) url(../images/readmore.png) 50% 50% no-repeat;
+}
+.home-bottom .threemainboxes .mostvoted figure figcaption:hover a {
+  background: rgba(255, 168, 0, 0.8);
+}
+.home-bottom .threemainboxes .mostvoted figure figcaption:hover a:hover {
+  background: rgba(255, 168, 0, 0.8) url(../images/readmore.png) 50% 50% no-repeat;
+}
+.blogpost .itemblog figure.imageformat figcaption {
+  background: rgba(255, 168, 0, 0.8);
+}
+.blogpost .itemblog figure.galleryformat figcaption {
+  background: rgba(255, 168, 0, 0.8);
+}
+.blogpost .itemblog .itemboxwhite .bottomblogitem .readmoreblog {
+  color: #ffa800;
+}
+.blogpost .itemblog .itemboxwhite .bottomblogitem .readmoreblog a {
+  color: #ffa800;
+}
+.blogpost .itemblog .itemboxwhite .titleline .datebox span.day {
+  color: #ffa800;
+}
+.blogpost .itemblog figure figcaption a {
+  background: rgba(255, 168, 0, 0.8);
+}
+.blogpost .itemblog figure figcaption a:hover {
+  background: rgba(255, 168, 0, 0.8) url(../images/readmore.png) 50% 50% no-repeat;
+}
+section.singlepage .leftside .sidebar a {
+  color: #ffa800;
+}
+section.singlepage .rightsidebar .sidebar a {
+  color: #ffa800;
+}
+section.singlepage .centerside .blogpost .itemblog figure figcaption a:hover {
+  background: rgba(255, 168, 0, 0.8) url(../images/plus.png) 50% 50% no-repeat;
+}
+section.singlepage .rightside section.full section.commentform section.comments .scrollbox ol.commentlist li.trackback a,
+section.singlepage .rightside section.full section.commentform section.comments .scrollbox ol.commentlist li.pingback a {
+  color: #ffa800;
+}
+section.singlepage .rightside section.full section.commentform section.respond h3 {
+  background: #ffa800;
+}
+section.singlepage .rightside section.full section.commentform section.respond .area2 .commenttextarea textarea {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+section.singlepage .rightside section.full section.commentform section.respond .area2 .commenttextarea textarea:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+section.singlepage .rightside section.full section.commentform section.respond .area2 .buttoncomment input.submit {
+  background: #ffa800;
+}
+section.singlepage .rightside section.full section.commentform section.respond .area2 .buttoncomment input.reset {
+  background: #ffa800;
+}
+section.singlepage .rightside section.full section.commentform section.respond .area1 input {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+section.singlepage .rightside section.full section.commentform section.respond .area1 input:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+section.singlepage .rightside section.full section.story .boxcontent p a {
+  color: #ffa800;
+}
+section.singlepage .rightside .soclikesline .lefticons a.prev {
+  background: #ffa800;
+}
+section.singlepage .rightside .soclikesline .lefticons a.next {
+  background: #ffa800;
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a {
+  background: rgba(255, 168, 0, 0.5);
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a.gooplus {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a.gooplus:hover {
+  background: #ffa800 url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a.fbicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a.fbicon:hover {
+  background: #ffa800 url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a.twiicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section.singlepage .rightside .soclikesline .righticons .righticonsbuttons a.twiicon:hover {
+  background: #ffa800 url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section.singlepage .rightside .soclikesline .couintbox p.post-like .like {
+  background: #ffa800 url(../images/heart.png) 0 0 no-repeat;
+}
+section.singlepage .rightside .soclikesline .couintbox p.post-like span.count {
+  background: #ffa800;
+}
+section.singlepage .rightside header.preview .titleline .datebox span.day {
+  color: #ffa800;
+}
+section.singlepage .rightside .postnavigation .categoriesbox ul.categorieslist li a {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+section.singlepage .rightside .postnavigation .categoriesbox ul.categorieslist li a:hover {
+  background: #ffa800;
+  border: 1px solid #ffa800;
+}
+section.singlepage .rightside .postnavigation .categoriesbox .title {
+  color: #ffa800;
+}
+section.singlepage .rightside .postnavigation .reachsinglbox .title {
+  color: #ffa800;
+}
+section.singlepage .rightside .postnavigation .reachsinglbox .searchform input[type="text"] {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+section.singlepage .rightside .postnavigation .reachsinglbox .searchform input[type="text"]:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+section.singlepage .leftmenubox header#leftheader h1.image {
+  background: #ffa800;
+}
+section.singlepage .leftmenubox header#leftheader .social a {
+  background: rgba(255, 168, 0, 0.5);
+}
+section.singlepage .leftmenubox header#leftheader .social a.pinticon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/pin.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.pinticon:hover {
+  background: #ffa800 url(../images/social/pin.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.youtubeicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/tube.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.youtubeicon:hover {
+  background: #ffa800 url(../images/social/tube.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.fbicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.fbicon:hover {
+  background: #ffa800 url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.twiicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.twiicon:hover {
+  background: #ffa800 url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.gogicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.gogicon:hover {
+  background: #ffa800 url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.vimicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/vim.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.vimicon:hover {
+  background: #ffa800 url(../images/social/vim.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.flickricon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/flikr.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.flickricon:hover {
+  background: #ffa800 url(../images/social/flikr.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.driicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/dri.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.driicon:hover {
+  background: #ffa800 url(../images/social/dri.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.instaicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/insta.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.instaicon:hover {
+  background: #ffa800 url(../images/social/insta.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.liinicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/link.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.liinicon:hover {
+  background: #ffa800 url(../images/social/link.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.picaicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/pica.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.picaicon:hover {
+  background: #ffa800 url(../images/social/pica.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.rssicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/rss.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader .social a.rssicon:hover {
+  background: #ffa800 url(../images/social/rss.png) 50% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li {
+  border-left: 4px solid rgba(255, 168, 0, 0.5);
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu a:hover {
+  color: #ffa800;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item a {
+  color: #ffa800;
+  background: url(../images/down.gif) 95% 50% no-repeat;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item ul li a:hover {
+  color: #ffa800;
+}
+section.singlepage .leftmenubox header#leftheader nav#leftnav ul.leftmenu li a:hover {
+  background: url(../images/down.gif) 95% 50% no-repeat;
+}
+#archives .ale-archives .year .up {
+  background: url(../images/down.gif) 50% 50% no-repeat;
+}
+#archives .ale-archives .year .down {
+  background: url(../images/up.gif) 50% 50% no-repeat;
+}
+.widget_search input[type="text"] {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+.widget_search input[type="text"]:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+.widget_tag_cloud .tagcloud a {
+  background: #ffa800;
+}
+.aletheme-flickr ul.aletheme-flickr-widget li:hover {
+  background: #ffa800;
+}
+.boxwithgalleries .gallbox figure figcaption {
+  background: rgba(255, 168, 0, 0.8);
+}
+.galleysingle .sharegallery .righticonsbuttons a {
+  background: rgba(255, 168, 0, 0.5);
+}
+.galleysingle .sharegallery .righticonsbuttons a.fbicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/fb.png) 50% 50% no-repeat;
+}
+.galleysingle .sharegallery .righticonsbuttons a.fbicon:hover {
+  background: #ffa800 url(../images/social/fb.png) 50% 50% no-repeat;
+}
+.galleysingle .sharegallery .righticonsbuttons a.twiicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/twi.png) 50% 50% no-repeat;
+}
+.galleysingle .sharegallery .righticonsbuttons a.twiicon:hover {
+  background: #ffa800 url(../images/social/twi.png) 50% 50% no-repeat;
+}
+.galleysingle .sharegallery .righticonsbuttons a.gooplus {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/gog.png) 50% 50% no-repeat;
+}
+.galleysingle .sharegallery .righticonsbuttons a.gooplus:hover {
+  background: #ffa800 url(../images/social/gog.png) 50% 50% no-repeat;
+}
+.inspirationblog .itemblog .notumbinspiration figcaption {
+  background: #ffa800;
+}
+.inspirationblog .itemblog .notumbinspiration figcaption a {
+  color: #ffa800;
+}
+.inspirationblog .itemblog .view a.info {
+  color: #ffa800;
+}
+.inspirationblog .itemblog .view-effect .mask {
+  background-color: #ffa800;
+}
+.pagelayout section.story p a {
+  color: #ffa800;
+}
+.aboutpage .videoaboutbox .videotitle {
+  background: #ffa800;
+}
+.aboutpage .quotebox figure figcaption {
+  background: rgba(255, 168, 0, 0.3);
+}
+.aboutpage .quotebox figure figcaption:hover {
+  background: rgba(255, 168, 0, 0.8);
+}
+.contactpage .leftcontactbox .formbox .success,
+.contactpage .leftcontactbox .formbox .error {
+  color: #ffa800;
+}
+.contactpage .leftcontactbox .formbox .commenttextarea textarea {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+.contactpage .leftcontactbox .formbox .commenttextarea textarea:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+.contactpage .leftcontactbox .formbox .buttoncomment input.submit {
+  background: #ffa800;
+}
+.contactpage .leftcontactbox .formbox .buttoncomment input.reset {
+  background: #ffa800;
+}
+.contactpage .leftcontactbox .formbox input[type="text"],
+.contactpage .leftcontactbox .formbox input[type="email"] {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+.contactpage .leftcontactbox .formbox input[type="text"]:focus,
+.contactpage .leftcontactbox .formbox input[type="email"]:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+.contactpage .leftcontactbox .formbox .contactformtitle {
+  background: #ffa800;
+}
+.contactpage .rightcontactbox figure figcaption {
+  background: rgba(255, 168, 0, 0.3);
+}
+.contactpage .rightcontactbox figure figcaption:hover {
+  background: rgba(255, 168, 0, 0.8);
+}
+.pressarchive .pressstyle .image figure:hover figcaption a {
+  background: rgba(255, 168, 0, 0.8);
+}
+.pressarchive .pressstyle .rightbox .titleline .datebox span.day {
+  color: #ffa800;
+}
+.aletheme-mostcommented-widget li.mostcommentedpost figure figcaption {
+  background: rgba(255, 168, 0, 0.8);
+}
+.aletheme-mostcommented-widget li.no-thumb figure figcaption {
+  background: rgba(255, 168, 0, 0.8);
+}
+.aletheme-mostcommented-widget li.no-thumb figure figcaption:hover {
+  background: #ffa800;
+}
+section.error a {
+  color: #ffa800;
+}
+.jspTrack {
+  background: rgba(255, 168, 0, 0.5);
+}
+.jspDrag {
+  background: #ffa800;
+}
+section.defaultwp nav#comment-nav-below a {
+  color: #ffa800;
+}
+section.defaultwp .respondbox #respond a {
+  color: #ffa800;
+}
+section.defaultwp #respond p.comment-form-author input,
+section.defaultwp #respond p.comment-form-url input,
+section.defaultwp #respond p.comment-form-email input {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+section.defaultwp #respond p.comment-form-author input:focus,
+section.defaultwp #respond p.comment-form-url input:focus,
+section.defaultwp #respond p.comment-form-email input:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+section.defaultwp #respond p.form-submit input#submit {
+  background: #ffa800;
+}
+section.defaultwp #respond p.comment-form-comment textarea {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+section.defaultwp #respond p.comment-form-comment textarea:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+section.defaultwp #comments li.comment a,
+section.defaultwp #comments li.pingback a,
+section.defaultwp #comments li.trackback a {
+  color: #ffa800;
+}
+.story-pages p a {
+  color: #ffa800;
+}
+.story table a {
+  color: #ffa800 !important;
+}
+form.protected-post-form p input[type="submit"] {
+  background: #ffa800;
+}
+form.protected-post-form p input[type="password"] {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+form.protected-post-form p input[type="password"]:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+.gallerygrid #filters li.activefilter a {
+  background: #ffa800;
+  border-color: #ffa800;
+}
+.gallerygrid #filters li a {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+.gallerygrid #filters li a:hover {
+  background: #ffa800;
+  border-color: #ffa800;
+}
+.gallerygrid #galcontainer .element figure:hover .titlegalleryfilter .lefticon,
+.gallerygrid #galcontainerhome .element figure:hover .titlegalleryfilter .lefticon {
+  background: #ffa800;
+}
+.gallerygrid #galcontainer .element figure figcaption a,
+.gallerygrid #galcontainerhome .element figure figcaption a {
+  background: #ffa800 url(../images/icons/im_ic.png) left bottom no-repeat;
+}
+.gallerygrid #galcontainer .element figure figcaption:hover a,
+.gallerygrid #galcontainerhome .element figure figcaption:hover a {
+  background: rgba(255, 168, 0, 0.8) url(../images/icons/im_ic.png) 50% 50% no-repeat;
+}
+.gallerygrid #galcontainer .element .titlegalleryfilter .lefticon,
+.gallerygrid #galcontainerhome .element .titlegalleryfilter .lefticon {
+  background: #ffa800 url(../images/icons/im_ic.png) 50% 50% no-repeat;
+}
+.nivo-caption .mainsliderdescription .sliderlinkmore {
+  background: #ffa800;
+}
+.ourteambox .itemteam figure figcaption {
+  background: #ffa800;
+}
+.abouttwo .abouttworight .ourskill .skillul li .skillline {
+  background: rgba(255, 168, 0, 0.3);
+}
+.abouttwo .abouttworight .ourskill .skillul li .skillline .countline {
+  background: #ffa800;
+}
+.contactformtwo .formbox label span {
+  color: #ffa800;
+}
+.contactformtwo .formbox .buttoncomment input.submit {
+  background: #ffa800;
+}
+.contactformtwo .formbox .buttoncomment input.reset {
+  background: #ffa800;
+}
+.contactformtwo .formbox textarea {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+.contactformtwo .formbox textarea:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+.contactformtwo .formbox .nametwo input[type="text"],
+.contactformtwo .formbox .emailtwo input[type="text"],
+.contactformtwo .formbox .phonetwo input[type="text"],
+.contactformtwo .formbox .nametwo input[type="email"],
+.contactformtwo .formbox .emailtwo input[type="email"],
+.contactformtwo .formbox .phonetwo input[type="email"] {
+  border: 1px solid rgba(255, 168, 0, 0.3);
+}
+.contactformtwo .formbox .nametwo input[type="text"]:focus,
+.contactformtwo .formbox .emailtwo input[type="text"]:focus,
+.contactformtwo .formbox .phonetwo input[type="text"]:focus,
+.contactformtwo .formbox .nametwo input[type="email"]:focus,
+.contactformtwo .formbox .emailtwo input[type="email"]:focus,
+.contactformtwo .formbox .phonetwo input[type="email"]:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3);
+  border: 1px solid rgba(255, 168, 0, 0.5);
+}
+.ale-service .iconbox,
+.ale-divider span {
+  background: #ffa800;
+}
+.ale-team .socialbut .fbbut a {
+  background: rgba(255, 168, 0, 0.8) url(../images/social/fb.png) 50% 50% no-repeat;
+}
+.ale-team .socialbut .fbbut a:hover {
+  background: #ffa800 url(../images/social/fb.png) 50% 50% no-repeat;
+}
+.ale-team .socialbut .twibut a {
+  background: rgba(255, 168, 0, 0.8) url(../images/social/twi.png) 50% 50% no-repeat;
+}
+.ale-team .socialbut .twibut a:hover {
+  background: #ffa800 url(../images/social/twi.png) 50% 50% no-repeat;
+}
+.ale-team .socialbut .gbut a {
+  background: rgba(255, 168, 0, 0.8) url(../images/social/gog.png) 50% 50% no-repeat;
+}
+.ale-team .socialbut .gbut a:hover {
+  background: #ffa800 url(../images/social/gog.png) 50% 50% no-repeat;
+}
+.aboutthree .abouttoggle .itemtoggle .titletog .iconplu {
+  background: #ffa800;
+}
+.aboutthreeteam .itemteam .teamphotobox .masktemphoto {
+  background: rgba(255, 168, 0, 0.5);
+}
+.aboutthreeteam .itemteam .teamdesc .prof {
+  color: #ffa800;
+}
+a.fbiconteam {
+  background: #ffa800 url(../images/social/fb.png) 50% 50% no-repeat;
+}
+a.twiiconteam {
+  background: #ffa800 url(../images/social/twi.png) 50% 50% no-repeat;
+}
+a.giconteam {
+  background: #ffa800 url(../images/social/gog.png) 50% 50% no-repeat;
+}
+a.piniconteam {
+  background: #ffa800 url(../images/social/pin.png) 50% 50% no-repeat;
+}
+.woocommerce span.onsale,
+.woocommerce-page span.onsale {
+  background: #ffa800 !important;
+}
+.woocommerce ul.products li.product a,
+.woocommerce-page ul.products li.product a {
+  background: #ffa800 !important;
+}
+.woocommerce div.product form.cart .button,
+.woocommerce-page div.product form.cart .button,
+.woocommerce #content div.product form.cart .button,
+.woocommerce-page #content div.product form.cart .button,
+.woocommerce .cart .button,
+.woocommerce-page .cart .button,
+.woocommerce .cart input.button,
+.woocommerce-page .cart input.button,
+.woocommerce #payment #place_order,
+.woocommerce-page #payment #place_order {
+  background: #ffa800 !important;
+}
+.sku_wrapper a,
+.posted_in a,
+.tagged_as a {
+  color: #ffa800;
+}
+.woocommerce div.product .woocommerce-tabs .panel a,
+.woocommerce-page div.product .woocommerce-tabs .panel a,
+.woocommerce #content div.product .woocommerce-tabs .panel a,
+.woocommerce-page #content div.product .woocommerce-tabs .panel a {
+  color: #ffa800;
+}
+.shipping-calculator-button {
+  color: #ffa800;
+}
+.woocommerce input[type="text"],
+.woocommerce input[type="email"],
+.woocommerce input[type="url"],
+.woocommerce textarea {
+  border: 1px solid rgba(255, 168, 0, 0.3) !important;
+}
+.woocommerce input[type="text"]:focus,
+.woocommerce input[type="email"]:focus,
+.woocommerce input[type="url"]:focus,
+.woocommerce textarea:focus {
+  box-shadow: 0px 0px 10px rgba(255, 168, 0, 0.3) !important;
+  border: 1px solid rgba(255, 168, 0, 0.5) !important;
+}
+.woocommerce ul.cart_list li a:hover,
+.woocommerce-page ul.cart_list li a:hover,
+.woocommerce ul.product_list_widget li a:hover,
+.woocommerce-page ul.product_list_widget li a:hover {
+  color: #ffa800 !important;
+}
+p.buttons a.button,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce-page .widget_price_filter .price_slider_amount .button {
+  background: #ffa800 !important;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+  background: #ffa800 !important;
+}
+/* New Home 1 - v.2.4*/
+section#new-home-one .new-home-1-slider ul.slides li figure figcaption .sliderlinkmore a {
+  background: #ffa800;
+}
+section#new-home-one .new-home-1-slider .flex-direction-nav a.flex-prev,
+section#new-home-one .new-home-1-slider .flex-direction-nav a.flex-next {
+  background-color: #ffa800;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader h1.image,
+section#new-home-two .leftbox .leftmenubox header#leftheader h1.image {
+  background: #ffa800;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a {
+  background: rgba(255, 168, 0, 0.5);
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.pinticon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.pinticon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/pin.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.pinticon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.pinticon:hover {
+  background: #ffa800 url(../images/social/pin.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.youtubeicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.youtubeicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/tube.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.youtubeicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.youtubeicon:hover {
+  background: #ffa800 url(../images/social/tube.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.fbicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.fbicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.fbicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.fbicon:hover {
+  background: #ffa800 url(../images/social/fb.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.twiicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.twiicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.twiicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.twiicon:hover {
+  background: #ffa800 url(../images/social/twi.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.gogicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.gogicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.gogicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.gogicon:hover {
+  background: #ffa800 url(../images/social/gog.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.vimicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.vimicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/vim.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.vimicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.vimicon:hover {
+  background: #ffa800 url(../images/social/vim.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.flickricon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.flickricon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/flikr.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.flickricon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.flickricon:hover {
+  background: #ffa800 url(../images/social/flikr.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.driicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.driicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/dri.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.driicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.driicon:hover {
+  background: #ffa800 url(../images/social/dri.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.instaicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.instaicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/insta.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.instaicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.instaicon:hover {
+  background: #ffa800 url(../images/social/insta.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.liinicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.liinicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/link.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.liinicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.liinicon:hover {
+  background: #ffa800 url(../images/social/link.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.picaicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.picaicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/pica.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.picaicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.picaicon:hover {
+  background: #ffa800 url(../images/social/pica.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.rssicon,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.rssicon {
+  background: rgba(255, 168, 0, 0.5) url(../images/social/rss.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader .social a.rssicon:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader .social a.rssicon:hover {
+  background: #ffa800 url(../images/social/rss.png) 50% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li,
+section#new-home-two .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu ul li {
+  border-left: 4px solid rgba(255, 168, 0, 0.5);
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu a:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu a:hover {
+  color: #ffa800;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item a,
+section#new-home-two .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item a {
+  color: #ffa800;
+  background: url(../images/down.gif) 95% 50% no-repeat;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item ul li a:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li.current-menu-item ul li a:hover {
+  color: #ffa800;
+}
+section#new-home-one .new-home-1-slider .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li a:hover,
+section#new-home-two .leftbox .leftmenubox header#leftheader nav#leftnav ul.leftmenu li a:hover {
+  background: url(../images/down.gif) 95% 50% no-repeat;
+}
+section#new-home-1-content section.home-one-content .center-section .three-boxes .col-item-3 .box-contener .icon-line .icon-1 {
+  background: url(../images/colors/orange-ic1.png) center center no-repeat;
+}
+section#new-home-1-content section.home-one-content .center-section .three-boxes .col-item-3 .box-contener .icon-line .icon-2 {
+  background: url(../images/colors/orange-ic2.png) center center no-repeat;
+}
+section#new-home-1-content section.home-one-content .center-section .three-boxes .col-item-3 .box-contener .icon-line .icon-3 {
+  background: url(../images/colors/orange-ic3.png) center center no-repeat;
+}
+section#new-home-1-content section.home-one-content .center-section .bottom-about-descr .bottom-content-about .about-box-conteiner .read-more-but a {
+  background-color: #ffa800;
+}
+section#new-home-two .new-home-2-top .three-boxes-cont .item-col-3 figure .link-box {
+  background: rgba(255, 168, 0, 0.8);
+}
+.map-about-box .conteiner-map .one-half-box .three-counts .one-third-box .count span {
+  color: #ffa800;
+}
+.map-about-box .conteiner-map .one-half-box .about-link a {
+  background: #ffa800;
+}
+.map-about-box .conteiner-map .one-half-box .video-embed-box .open-video a {
+  background-color: #ffa800;
+}
+.collections-box .col-conteiner .item-box .mask a {
+  background-color: rgba(255, 168, 0, 0.8);
+}
+.inspirations-box-home3 .ins-slider-conteiner .ins-home3-slider ul.slides li .read-more a {
+  background: #ffa800;
+}
+.inspirations-box-home3 .ins-slider-conteiner .ins-home3-slider .flex-direction-nav a.flex-prev,
+.inspirations-box-home3 .ins-slider-conteiner .ins-home3-slider .flex-direction-nav a.flex-next {
+  background-color: #ffa800;
+}
+.subscribe-plugin-box .form-conteiner input[type="submit"] {
+  background: #ffa800;
+}
+.home-4-top-posts .posts-boxes .post-newhome-top .image-box .mask a {
+  background-color: rgba(255, 168, 0, 0.8);
+}
+.home-4-top-posts .posts-boxes .post-newhome-top:hover .post-data-text {
+  border: 6px solid rgba(255, 168, 0, 0.8);
+}
+.adventures-box .map-adv-conteiner .half-box .info-adv .info-link a {
+  background-color: #ffa800;
+}
+.our-team-box .list-team .item-member:hover .photo-box img {
+  border: 6px solid rgba(255, 168, 0, 0.8);
+}
+.home-4-top-posts .mobile-posts-list .mobile-post .image-box .mask a {
+  background-color: rgba(255, 168, 0, 0.8);
+}
+.home-4-top-posts .mobile-posts-list .mobile-post:hover .post-data-text {
+  border: 6px solid rgba(255, 168, 0, 0.8);
+}
+.home-5-top-data .center_h5_slider .slider-home5 .flex-direction-nav a.flex-prev,
+.home-5-top-data .center_h5_slider .slider-home5 .flex-direction-nav a.flex-next {
+  background-color: #ffa800;
+}
+.home-5-top-data .right_article .box-info {
+  background: #ffa800;
+}
+.home-5-top-data .right_article .box-image::before {
+  border-color: transparent transparent #ffa800 transparent;
+  _border-color: #000000 #000000 #ffa800 #000000;
+}
+.bottom-popimages .popup-gallery a,
+.bottom-timeline .blog-items-conteiner .line-post .point .but {
+  background: #ffa800;
+}
+.about-5 .three-top-boxes .item-col-3 .icon-box .icon-image {
+  border: 1px solid #ffa800;
+}
+.about-5 .read-link a {
+  color: #ffa800;
+}
+.about-5 .organization-box .org-items-list .item-post-org form.about-form input.submit {
+  background: #ffa800;
+}
+.about-6 .three-top-boxes .item-col-3 .icon-box .icon-image {
+  background: #ffa800;
+  border: 0;
+}
+.about-6 .two-places-box .half-box .place-item .toggle-box .toggle-head {
+  color: #ffa800;
+}
+.about-6 .two-places-box .half-box .place-item .toggle-box .toggle-head .go-but {
+  border: 2px solid #ffa800;
+}
+.bg-about-4,
+.video-embed-box .open-video a {
+  background-color: #ffa800;
+}
+.about-page-style4 .about-4-toggles .toggle-sec .half-box .toggles-conteiner .toggles-list .toggle-title .toggle-head .toggle-with-nav {
+  background-color: #ffa800;
+}
+.contact-style-3 .right-30 {
+  background: #ffa800;
+}
+.contact-style-4 .top-text .contact-data .item-col-4 .data-box .social a {
+  background-color: rgba(255, 168, 0, 0.5);
+}
+.contact-style-4 .top-text .contact-data .item-col-4 .data-box .social a:hover {
+  background-color: #ffa800;
+}
+.contact-style-4 .top-text .map-and-form .right-40 {
+  background-color: #ffa800;
+}
+.contact-style-5 .top-text .contact-form p.ta input.submit-black {
+  background: #ffa800;
+}
+.contact-style-6 .conteiner-box .right-50 {
+  background: #ffa800;
+}
+.new-blog-1 .blog-list .blog-post .part-left figure figcaption a {
+  background-color: rgba(255, 168, 0, 0.5);
+}
+.new-blog-2 .blog-list .blog-post .image-box figure figcaption a {
+  background-color: rgba(255, 168, 0, 0.8);
+}
+.new-blog-2 .blog-list .blog-post:hover .post-data-text {
+  border: 6px solid rgba(255, 168, 0, 0.8);
+}
+.new-gallery-1 .item-col-3 figure .link-box {
+  background: rgba(255, 168, 0, 0.8);
+}
+.new-gallery-2 .item-col-3 figure .likes-box {
+  background-color: #ffa800;
+}
+.new-gallery-2 .item-col-3 figure .link-box {
+  background: rgba(255, 168, 0, 0.8);
+}
+.new-gallery-3 .item-col figure .link-box a {
+  background-color: rgba(255, 168, 0, 0.8);
+}
+@media (max-width: 1294px) {
+  .blogpost .itemblog figure figcaption a:hover {
+    background: rgba(255, 168, 0, 0.8) url(../images/plus.png) 50% 50% no-repeat;
+  }
+}
+@media (max-width: 980px) {
+  .blogpost .itemblog figure figcaption a:hover {
+    background: rgba(255, 168, 0, 0.8) url(../images/plus.png) 50% 50% no-repeat;
+  }
+}
+@media (max-width: 480px) {
+  .home-bottom .othermenuhomemobile .inforight {
+    background: #ffa800;
+  }
+}
